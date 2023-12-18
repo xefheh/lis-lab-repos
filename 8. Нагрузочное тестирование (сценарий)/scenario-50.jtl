@@ -1,0 +1,1401 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1702911822278,830,/-5,200,OK,Thread Group 1-7,text,true,,16042,408,48,48,http://www.g-shop.shop/,829,0,23
+1702911822263,868,/-5,200,OK,Thread Group 1-3,text,true,,15953,408,49,49,http://www.g-shop.shop/,854,0,38
+1702911822267,879,/-5,200,OK,Thread Group 1-6,text,true,,15838,408,50,50,http://www.g-shop.shop/,869,0,33
+1702911822265,899,/-5,200,OK,Thread Group 1-5,text,true,,15920,408,50,50,http://www.g-shop.shop/,891,0,35
+1702911822263,913,/-5,200,OK,Thread Group 1-1,text,true,,15838,408,50,50,http://www.g-shop.shop/,905,0,38
+1702911822263,915,/-5,200,OK,Thread Group 1-4,text,true,,15944,408,50,50,http://www.g-shop.shop/,906,0,38
+1702911822283,906,/-5,200,OK,Thread Group 1-8,text,true,,15551,408,50,50,http://www.g-shop.shop/,897,0,17
+1702911822323,888,/-5,200,OK,Thread Group 1-10,text,true,,15832,408,50,50,http://www.g-shop.shop/,879,0,11
+1702911822299,913,/-5,200,OK,Thread Group 1-9,text,true,,15757,408,50,50,http://www.g-shop.shop/,904,0,12
+1702911822263,960,/-5,200,OK,Thread Group 1-2,text,true,,15796,408,50,50,http://www.g-shop.shop/,952,0,37
+1702911823113,111,/canonical.html-6,200,OK,Thread Group 1-7,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,111,0,57
+1702911823132,109,/canonical.html-6,200,OK,Thread Group 1-3,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,109,0,54
+1702911823147,103,/canonical.html-6,200,OK,Thread Group 1-6,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,103,0,51
+1702911823165,97,/canonical.html-6,200,OK,Thread Group 1-5,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,97,0,48
+1702911823177,90,/canonical.html-6,200,OK,Thread Group 1-1,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,90,0,45
+1702911823225,55,/success.txt-7,200,OK,Thread Group 1-7,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,54,0,0
+1702911823179,105,/canonical.html-6,200,OK,Thread Group 1-4,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,105,0,52
+1702911823241,55,/success.txt-7,200,OK,Thread Group 1-3,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,55,0,0
+1702911823189,109,/canonical.html-6,200,OK,Thread Group 1-8,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,109,0,54
+1702911823212,89,/canonical.html-6,200,OK,Thread Group 1-10,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,89,0,44
+1702911823250,52,/success.txt-7,200,OK,Thread Group 1-6,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,52,0,0
+1702911823212,97,/canonical.html-6,200,OK,Thread Group 1-9,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,97,0,48
+1702911823263,48,/success.txt-7,200,OK,Thread Group 1-5,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,48,0,0
+1702911823267,46,/success.txt-7,200,OK,Thread Group 1-1,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,45,0,0
+1702911823224,91,/canonical.html-6,200,OK,Thread Group 1-2,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,91,0,45
+1702911823280,55,/success.txt-8,200,OK,Thread Group 1-7,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,55,0,0
+1702911823284,53,/success.txt-7,200,OK,Thread Group 1-4,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,53,0,0
+1702911823301,45,/success.txt-7,200,OK,Thread Group 1-10,text,true,,215,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,45,0,0
+1702911823296,54,/success.txt-8,200,OK,Thread Group 1-3,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,54,0,0
+1702911823298,55,/success.txt-7,200,OK,Thread Group 1-8,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,55,0,0
+1702911823302,52,/success.txt-8,200,OK,Thread Group 1-6,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,52,0,0
+1702911823313,45,/success.txt-8,200,OK,Thread Group 1-1,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,45,0,0
+1702911823310,48,/success.txt-7,200,OK,Thread Group 1-9,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,48,0,0
+1702911823311,49,/success.txt-8,200,OK,Thread Group 1-5,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,49,0,0
+1702911823315,46,/success.txt-7,200,OK,Thread Group 1-2,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,46,0,0
+1702911823335,54,/canonical.html-9,200,OK,Thread Group 1-7,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,54,0,0
+1702911823337,53,/success.txt-8,200,OK,Thread Group 1-4,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,53,0,0
+1702911823346,46,/success.txt-8,200,OK,Thread Group 1-10,text,true,,215,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,46,0,0
+1702911823358,46,/canonical.html-9,200,OK,Thread Group 1-1,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,46,0,0
+1702911823351,54,/canonical.html-9,200,OK,Thread Group 1-3,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,54,0,0
+1702911823354,52,/canonical.html-9,200,OK,Thread Group 1-6,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,52,0,0
+1702911823353,54,/success.txt-8,200,OK,Thread Group 1-8,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,54,0,0
+1702911823359,49,/success.txt-8,200,OK,Thread Group 1-9,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,49,0,0
+1702911823360,48,/canonical.html-9,200,OK,Thread Group 1-5,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,48,0,0
+1702911823362,46,/success.txt-8,200,OK,Thread Group 1-2,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,46,0,0
+1702911823392,45,/canonical.html-9,200,OK,Thread Group 1-10,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,45,0,0
+1702911823390,53,/canonical.html-9,200,OK,Thread Group 1-4,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,53,0,0
+1702911823390,56,/success.txt-11,200,OK,Thread Group 1-7,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,56,0,0
+1702911823404,48,/success.txt-11,200,OK,Thread Group 1-1,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,48,0,0
+1702911823408,46,/canonical.html-9,200,OK,Thread Group 1-2,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,46,0,0
+1702911823408,48,/canonical.html-9,200,OK,Thread Group 1-9,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,48,0,0
+1702911823408,49,/success.txt-11,200,OK,Thread Group 1-5,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,49,0,0
+1702911823406,52,/success.txt-11,200,OK,Thread Group 1-6,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,52,0,0
+1702911823405,54,/success.txt-11,200,OK,Thread Group 1-3,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,54,0,0
+1702911823407,57,/canonical.html-9,200,OK,Thread Group 1-8,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,57,0,0
+1702911823438,45,/success.txt-11,200,OK,Thread Group 1-10,text,true,,215,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,45,0,0
+1702911823443,53,/success.txt-11,200,OK,Thread Group 1-4,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,53,0,0
+1702911823452,47,/success.txt-10,200,OK,Thread Group 1-1,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,47,0,0
+1702911823447,54,/success.txt-10,200,OK,Thread Group 1-7,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,54,0,0
+1702911823455,46,/success.txt-11,200,OK,Thread Group 1-2,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,46,0,0
+1702911823457,48,/success.txt-10,200,OK,Thread Group 1-5,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,48,0,0
+1702911823458,52,/success.txt-10,200,OK,Thread Group 1-6,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,52,0,0
+1702911823457,49,/success.txt-11,200,OK,Thread Group 1-9,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,48,0,0
+1702911823464,56,/success.txt-11,200,OK,Thread Group 1-8,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,56,0,0
+1702911823460,61,/success.txt-10,200,OK,Thread Group 1-3,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,61,0,0
+1702911823483,48,/success.txt-10,200,OK,Thread Group 1-10,text,true,,215,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,48,0,0
+1702911823502,49,/success.txt-10,200,OK,Thread Group 1-2,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,49,0,0
+1702911823496,56,/success.txt-10,200,OK,Thread Group 1-4,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,56,0,0
+1702911823512,51,/success.txt-10,200,OK,Thread Group 1-9,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,51,0,0
+1702911823521,60,/success.txt-10,200,OK,Thread Group 1-8,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,60,0,0
+1702911822367,1366,/-5,200,OK,Thread Group 1-11,text,true,,15957,408,50,50,http://www.g-shop.shop/,1357,0,14
+1702911822373,1436,/-5,200,OK,Thread Group 1-12,text,true,,15666,408,50,50,http://www.g-shop.shop/,1428,0,20
+1702911823734,90,/canonical.html-6,200,OK,Thread Group 1-11,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,90,0,45
+1702911823824,48,/success.txt-7,200,OK,Thread Group 1-11,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,48,0,0
+1702911823810,99,/canonical.html-6,200,OK,Thread Group 1-12,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,99,0,52
+1702911822426,1496,/-5,200,OK,Thread Group 1-14,text,true,,15771,408,50,50,http://www.g-shop.shop/,1481,0,10
+1702911823872,52,/success.txt-8,200,OK,Thread Group 1-11,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,51,0,0
+1702911822460,1474,/-5,200,OK,Thread Group 1-16,text,true,,15602,408,50,50,http://www.g-shop.shop/,1462,0,10
+1702911822441,1513,/-5,200,OK,Thread Group 1-15,text,true,,15959,408,50,50,http://www.g-shop.shop/,1502,0,10
+1702911823910,47,/success.txt-7,200,OK,Thread Group 1-12,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,47,0,0
+1702911822513,1447,/-5,200,OK,Thread Group 1-19,text,true,,15880,408,50,50,http://www.g-shop.shop/,1438,0,10
+1702911823924,47,/canonical.html-9,200,OK,Thread Group 1-11,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,47,0,0
+1702911823924,122,/canonical.html-6,200,OK,Thread Group 1-14,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,122,0,47
+1702911823958,88,/success.txt-8,200,OK,Thread Group 1-12,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,88,0,0
+1702911823971,76,/success.txt-11,200,OK,Thread Group 1-11,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,76,0,0
+1702911822493,1554,/-5,200,OK,Thread Group 1-18,text,true,,15780,408,50,50,http://www.g-shop.shop/,1523,0,12
+1702911822475,1572,/-5,200,OK,Thread Group 1-17,text,true,,15845,408,50,50,http://www.g-shop.shop/,1556,0,10
+1702911823935,126,/canonical.html-6,200,OK,Thread Group 1-16,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,126,0,66
+1702911823955,106,/canonical.html-6,200,OK,Thread Group 1-15,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,106,0,46
+1702911822531,1558,/-5,200,OK,Thread Group 1-20,text,true,,15637,408,50,50,http://www.g-shop.shop/,1549,0,10
+1702911824046,45,/success.txt-7,200,OK,Thread Group 1-14,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,45,0,0
+1702911823962,130,/canonical.html-6,200,OK,Thread Group 1-19,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,130,0,84
+1702911824047,46,/success.txt-10,200,OK,Thread Group 1-11,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,46,0,0
+1702911824046,49,/canonical.html-9,200,OK,Thread Group 1-12,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,49,0,0
+1702911822546,1550,/-5,200,OK,Thread Group 1-21,text,true,,15997,408,50,50,http://www.g-shop.shop/,1542,0,10
+1702911824061,53,/success.txt-7,200,OK,Thread Group 1-15,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,53,0,0
+1702911824061,54,/success.txt-7,200,OK,Thread Group 1-16,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,53,0,0
+1702911824092,45,/success.txt-8,200,OK,Thread Group 1-14,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,45,0,0
+1702911824048,89,/canonical.html-6,200,OK,Thread Group 1-18,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,89,0,44
+1702911824092,46,/success.txt-7,200,OK,Thread Group 1-19,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,46,0,0
+1702911824096,47,/success.txt-11,200,OK,Thread Group 1-12,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,47,0,0
+1702911824048,108,/canonical.html-6,200,OK,Thread Group 1-17,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,108,0,53
+1702911824114,54,/success.txt-8,200,OK,Thread Group 1-15,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,54,0,0
+1702911824115,53,/success.txt-8,200,OK,Thread Group 1-16,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,53,0,0
+1702911824137,45,/success.txt-7,200,OK,Thread Group 1-18,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,45,0,0
+1702911824137,45,/canonical.html-9,200,OK,Thread Group 1-14,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,45,0,0
+1702911824139,46,/success.txt-8,200,OK,Thread Group 1-19,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,46,0,0
+1702911824144,47,/success.txt-10,200,OK,Thread Group 1-12,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,47,0,0
+1702911824089,114,/canonical.html-6,200,OK,Thread Group 1-20,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,114,0,57
+1702911824097,106,/canonical.html-6,200,OK,Thread Group 1-21,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,106,0,53
+1702911824156,55,/success.txt-7,200,OK,Thread Group 1-17,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,55,0,0
+1702911824168,53,/canonical.html-9,200,OK,Thread Group 1-15,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,53,0,0
+1702911824168,53,/canonical.html-9,200,OK,Thread Group 1-16,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,53,0,0
+1702911824182,46,/success.txt-8,200,OK,Thread Group 1-18,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,46,0,0
+1702911824182,46,/success.txt-11,200,OK,Thread Group 1-14,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,46,0,0
+1702911824185,46,/canonical.html-9,200,OK,Thread Group 1-19,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,46,0,0
+1702911824203,53,/success.txt-7,200,OK,Thread Group 1-21,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,53,0,0
+1702911824203,57,/success.txt-7,200,OK,Thread Group 1-20,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,57,0,0
+1702911824211,55,/success.txt-8,200,OK,Thread Group 1-17,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,55,0,0
+1702911824228,45,/canonical.html-9,200,OK,Thread Group 1-18,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,45,0,0
+1702911824228,45,/success.txt-10,200,OK,Thread Group 1-14,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,45,0,0
+1702911824231,47,/success.txt-11,200,OK,Thread Group 1-19,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,47,0,0
+1702911824221,53,/success.txt-11,200,OK,Thread Group 1-16,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,53,0,0
+1702911824221,53,/success.txt-11,200,OK,Thread Group 1-15,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,53,0,0
+1702911824256,54,/success.txt-8,200,OK,Thread Group 1-21,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,54,0,0
+1702911824260,57,/success.txt-8,200,OK,Thread Group 1-20,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,57,0,0
+1702911824273,45,/success.txt-11,200,OK,Thread Group 1-18,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,45,0,0
+1702911822389,1931,/-5,200,OK,Thread Group 1-13,text,true,,15647,408,50,50,http://www.g-shop.shop/,1923,0,10
+1702911824267,54,/canonical.html-9,200,OK,Thread Group 1-17,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,54,0,0
+1702911824282,47,/success.txt-10,200,OK,Thread Group 1-19,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,47,0,0
+1702911824282,53,/success.txt-10,200,OK,Thread Group 1-16,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,53,0,0
+1702911824283,53,/success.txt-10,200,OK,Thread Group 1-15,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,52,0,0
+1702911824310,53,/canonical.html-9,200,OK,Thread Group 1-21,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,53,0,0
+1702911824318,45,/success.txt-10,200,OK,Thread Group 1-18,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,45,0,0
+1702911824317,57,/canonical.html-9,200,OK,Thread Group 1-20,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,57,0,0
+1702911824322,54,/success.txt-11,200,OK,Thread Group 1-17,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,54,0,0
+1702911824320,95,/canonical.html-6,200,OK,Thread Group 1-13,text,true,,297,324,50,50,http://detectportal.firefox.com/canonical.html,95,0,51
+1702911824363,54,/success.txt-11,200,OK,Thread Group 1-21,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,54,0,0
+1702911824374,57,/success.txt-11,200,OK,Thread Group 1-20,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,57,0,0
+1702911824376,55,/success.txt-10,200,OK,Thread Group 1-17,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,55,0,0
+1702911824416,44,/success.txt-7,200,OK,Thread Group 1-13,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,44,0,0
+1702911824417,53,/success.txt-10,200,OK,Thread Group 1-21,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,53,0,0
+1702911822564,1917,/-5,200,OK,Thread Group 1-22,text,true,,16106,408,50,50,http://www.g-shop.shop/,1908,0,10
+1702911824431,57,/success.txt-10,200,OK,Thread Group 1-20,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,57,0,0
+1702911824460,45,/success.txt-8,200,OK,Thread Group 1-13,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,45,0,0
+1702911824505,44,/canonical.html-9,200,OK,Thread Group 1-13,text,true,,297,324,50,50,http://detectportal.firefox.com/canonical.html,44,0,0
+1702911822618,1947,/-5,200,OK,Thread Group 1-25,text,true,,15885,408,50,50,http://www.g-shop.shop/,1939,0,10
+1702911822580,1994,/-5,200,OK,Thread Group 1-23,text,true,,15957,408,50,50,http://www.g-shop.shop/,1985,0,10
+1702911824482,100,/canonical.html-6,200,OK,Thread Group 1-22,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,100,0,50
+1702911824550,44,/success.txt-11,200,OK,Thread Group 1-13,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,44,0,0
+1702911822599,2024,/-5,200,OK,Thread Group 1-24,text,true,,15685,408,50,50,http://www.g-shop.shop/,2016,0,10
+1702911824582,50,/success.txt-7,200,OK,Thread Group 1-22,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,50,0,0
+1702911824594,45,/success.txt-10,200,OK,Thread Group 1-13,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,45,0,0
+1702911822637,2032,/-5,200,OK,Thread Group 1-26,text,true,,15947,408,50,50,http://www.g-shop.shop/,2023,0,9
+1702911824566,107,/canonical.html-6,200,OK,Thread Group 1-25,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,107,0,53
+1702911822685,1991,/-5,200,OK,Thread Group 1-27,text,true,,15633,408,50,50,http://www.g-shop.shop/,1982,0,11
+1702911824574,103,/canonical.html-6,200,OK,Thread Group 1-23,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,103,0,51
+1702911824633,50,/success.txt-8,200,OK,Thread Group 1-22,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,50,0,0
+1702911822712,2016,/-5,200,OK,Thread Group 1-29,text,true,,15698,408,50,50,http://www.g-shop.shop/,2007,0,9
+1702911824673,55,/success.txt-7,200,OK,Thread Group 1-25,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,55,0,0
+1702911824624,104,/canonical.html-6,200,OK,Thread Group 1-24,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,104,0,51
+1702911824677,52,/success.txt-7,200,OK,Thread Group 1-23,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,52,0,0
+1702911822692,2040,/-5,200,OK,Thread Group 1-28,text,true,,15648,408,50,50,http://www.g-shop.shop/,2031,0,10
+1702911824683,51,/canonical.html-9,200,OK,Thread Group 1-22,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,51,0,0
+1702911822750,2018,/-5,200,OK,Thread Group 1-31,text,true,,15645,408,50,50,http://www.g-shop.shop/,2009,0,10
+1702911824728,52,/success.txt-7,200,OK,Thread Group 1-24,text,true,,215,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,52,0,0
+1702911824729,52,/success.txt-8,200,OK,Thread Group 1-23,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,52,0,0
+1702911824728,54,/success.txt-8,200,OK,Thread Group 1-25,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,54,0,0
+1702911824670,113,/canonical.html-6,200,OK,Thread Group 1-26,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,113,0,56
+1702911824734,50,/success.txt-11,200,OK,Thread Group 1-22,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,50,0,0
+1702911824676,120,/canonical.html-6,200,OK,Thread Group 1-27,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,120,0,60
+1702911824729,103,/canonical.html-6,200,OK,Thread Group 1-29,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,103,0,48
+1702911824732,101,/canonical.html-6,200,OK,Thread Group 1-28,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,101,0,45
+1702911824781,53,/canonical.html-9,200,OK,Thread Group 1-23,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,53,0,0
+1702911824780,54,/success.txt-8,200,OK,Thread Group 1-24,text,true,,215,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,54,0,0
+1702911824785,50,/success.txt-10,200,OK,Thread Group 1-22,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,50,0,0
+1702911824782,53,/canonical.html-9,200,OK,Thread Group 1-25,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,53,0,0
+1702911824783,56,/success.txt-7,200,OK,Thread Group 1-26,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,56,0,0
+1702911822731,2111,/-5,200,OK,Thread Group 1-30,text,true,,16138,408,50,50,http://www.g-shop.shop/,2102,0,17
+1702911824796,65,/success.txt-7,200,OK,Thread Group 1-27,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,65,0,0
+1702911824833,43,/success.txt-7,200,OK,Thread Group 1-29,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,42,0,0
+1702911824834,46,/success.txt-7,200,OK,Thread Group 1-28,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,46,0,0
+1702911824834,55,/canonical.html-9,200,OK,Thread Group 1-24,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,55,0,0
+1702911824834,56,/success.txt-11,200,OK,Thread Group 1-23,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,56,0,0
+1702911824835,56,/success.txt-11,200,OK,Thread Group 1-25,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,56,0,0
+1702911824769,123,/canonical.html-6,200,OK,Thread Group 1-31,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,123,0,64
+1702911824839,60,/success.txt-8,200,OK,Thread Group 1-26,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,60,0,0
+1702911824876,43,/success.txt-8,200,OK,Thread Group 1-29,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,43,0,0
+1702911822800,2119,/-5,200,OK,Thread Group 1-32,text,true,,15667,408,50,50,http://www.g-shop.shop/,2110,0,10
+1702911824862,64,/success.txt-8,200,OK,Thread Group 1-27,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,64,0,0
+1702911824880,47,/success.txt-8,200,OK,Thread Group 1-28,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,47,0,0
+1702911822809,2127,/-5,200,OK,Thread Group 1-33,text,true,,15644,408,50,50,http://www.g-shop.shop/,2117,0,10
+1702911824890,52,/success.txt-10,200,OK,Thread Group 1-23,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,52,0,0
+1702911824890,52,/success.txt-11,200,OK,Thread Group 1-24,text,true,,215,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,52,0,0
+1702911824891,54,/success.txt-10,200,OK,Thread Group 1-25,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,54,0,0
+1702911824892,57,/success.txt-7,200,OK,Thread Group 1-31,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,57,0,0
+1702911824842,107,/canonical.html-6,200,OK,Thread Group 1-30,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,107,0,58
+1702911824899,57,/canonical.html-9,200,OK,Thread Group 1-26,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,57,0,0
+1702911824919,44,/canonical.html-9,200,OK,Thread Group 1-29,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,44,0,0
+1702911824927,45,/canonical.html-9,200,OK,Thread Group 1-28,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,45,0,0
+1702911824927,61,/canonical.html-9,200,OK,Thread Group 1-27,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,61,0,0
+1702911824942,61,/success.txt-10,200,OK,Thread Group 1-24,text,true,,215,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,61,0,0
+1702911824949,54,/success.txt-7,200,OK,Thread Group 1-30,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,54,0,0
+1702911824964,42,/success.txt-11,200,OK,Thread Group 1-29,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,42,0,0
+1702911824949,62,/success.txt-8,200,OK,Thread Group 1-31,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,62,0,0
+1702911824956,58,/success.txt-11,200,OK,Thread Group 1-26,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,58,0,0
+1702911824973,47,/success.txt-11,200,OK,Thread Group 1-28,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,47,0,0
+1702911824919,110,/canonical.html-6,200,OK,Thread Group 1-32,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,109,0,55
+1702911824988,61,/success.txt-11,200,OK,Thread Group 1-27,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,61,0,0
+1702911825007,42,/success.txt-10,200,OK,Thread Group 1-29,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,42,0,0
+1702911825003,50,/success.txt-8,200,OK,Thread Group 1-30,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,50,0,0
+1702911824936,125,/canonical.html-6,200,OK,Thread Group 1-33,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,125,0,67
+1702911825021,45,/success.txt-10,200,OK,Thread Group 1-28,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,45,0,0
+1702911825012,57,/canonical.html-9,200,OK,Thread Group 1-31,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,57,0,0
+1702911825014,57,/success.txt-10,200,OK,Thread Group 1-26,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,57,0,0
+1702911825029,54,/success.txt-7,200,OK,Thread Group 1-32,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,54,0,0
+1702911825053,50,/canonical.html-9,200,OK,Thread Group 1-30,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,50,0,0
+1702911825049,61,/success.txt-10,200,OK,Thread Group 1-27,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,61,0,0
+1702911825061,59,/success.txt-7,200,OK,Thread Group 1-33,text,true,,215,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,59,0,0
+1702911825069,57,/success.txt-11,200,OK,Thread Group 1-31,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,57,0,0
+1702911825084,56,/success.txt-8,200,OK,Thread Group 1-32,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,56,0,0
+1702911825103,52,/success.txt-11,200,OK,Thread Group 1-30,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,52,0,0
+1702911825120,67,/success.txt-8,200,OK,Thread Group 1-33,text,true,,215,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,67,0,0
+1702911825127,64,/success.txt-10,200,OK,Thread Group 1-31,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,63,0,0
+1702911825140,69,/canonical.html-9,200,OK,Thread Group 1-32,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,69,0,0
+1702911825155,54,/success.txt-10,200,OK,Thread Group 1-30,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,54,0,0
+1702911822849,2362,/-5,200,OK,Thread Group 1-35,text,true,,15691,408,50,50,http://www.g-shop.shop/,2353,0,9
+1702911822830,2393,/-5,200,OK,Thread Group 1-34,text,true,,15852,408,50,50,http://www.g-shop.shop/,2380,0,11
+1702911825189,60,/canonical.html-9,200,OK,Thread Group 1-33,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,60,0,0
+1702911825209,55,/success.txt-11,200,OK,Thread Group 1-32,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,55,0,0
+1702911825249,60,/success.txt-11,200,OK,Thread Group 1-33,text,true,,215,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,60,0,0
+1702911825213,96,/canonical.html-6,200,OK,Thread Group 1-35,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,96,0,48
+1702911825265,54,/success.txt-10,200,OK,Thread Group 1-32,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,54,0,0
+1702911825224,101,/canonical.html-6,200,OK,Thread Group 1-34,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,101,0,50
+1702911825309,48,/success.txt-7,200,OK,Thread Group 1-35,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,48,0,0
+1702911825309,59,/success.txt-10,200,OK,Thread Group 1-33,text,true,,215,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,59,0,0
+1702911825325,52,/success.txt-7,200,OK,Thread Group 1-34,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,52,0,0
+1702911822906,2474,/-5,200,OK,Thread Group 1-38,text,true,,16048,408,50,50,http://www.g-shop.shop/,2465,0,10
+1702911825358,49,/success.txt-8,200,OK,Thread Group 1-35,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,48,0,0
+1702911825377,52,/success.txt-8,200,OK,Thread Group 1-34,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,52,0,0
+1702911822888,2544,/-5,200,OK,Thread Group 1-37,text,true,,15573,408,50,50,http://www.g-shop.shop/,2535,0,11
+1702911822946,2508,/-5,200,OK,Thread Group 1-40,text,true,,15825,408,50,50,http://www.g-shop.shop/,2500,0,10
+1702911825407,48,/canonical.html-9,200,OK,Thread Group 1-35,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,48,0,0
+1702911825430,51,/canonical.html-9,200,OK,Thread Group 1-34,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,51,0,0
+1702911825381,108,/canonical.html-6,200,OK,Thread Group 1-38,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,108,0,50
+1702911825456,48,/success.txt-11,200,OK,Thread Group 1-35,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,48,0,0
+1702911822927,2585,/-5,200,OK,Thread Group 1-39,text,true,,16070,408,50,50,http://www.g-shop.shop/,2572,0,10
+1702911825481,51,/success.txt-11,200,OK,Thread Group 1-34,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,51,0,0
+1702911825489,51,/success.txt-7,200,OK,Thread Group 1-38,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,51,0,0
+1702911822976,2565,/-5,200,OK,Thread Group 1-41,text,true,,15776,408,50,50,http://www.g-shop.shop/,2555,0,10
+1702911825433,110,/canonical.html-6,200,OK,Thread Group 1-37,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,110,0,55
+1702911823023,2533,/-5,200,OK,Thread Group 1-43,text,true,,15842,408,50,50,http://www.g-shop.shop/,2517,0,11
+1702911825505,51,/success.txt-10,200,OK,Thread Group 1-35,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,51,0,0
+1702911825455,108,/canonical.html-6,200,OK,Thread Group 1-40,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,107,0,56
+1702911825532,51,/success.txt-10,200,OK,Thread Group 1-34,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,51,0,0
+1702911825541,50,/success.txt-8,200,OK,Thread Group 1-38,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,50,0,0
+1702911825543,55,/success.txt-7,200,OK,Thread Group 1-37,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,55,0,0
+1702911825563,52,/success.txt-7,200,OK,Thread Group 1-40,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,52,0,0
+1702911825515,103,/canonical.html-6,200,OK,Thread Group 1-39,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,103,0,51
+1702911823136,2497,/-5,200,OK,Thread Group 1-50,text,true,,15937,408,50,50,http://www.g-shop.shop/,2489,0,11
+1702911825592,50,/canonical.html-9,200,OK,Thread Group 1-38,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,50,0,0
+1702911825598,54,/success.txt-8,200,OK,Thread Group 1-37,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,54,0,0
+1702911825541,118,/canonical.html-6,200,OK,Thread Group 1-41,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,118,0,59
+1702911823120,2546,/-5,200,OK,Thread Group 1-49,text,true,,15764,408,50,50,http://www.g-shop.shop/,2536,0,13
+1702911825615,56,/success.txt-8,200,OK,Thread Group 1-40,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,56,0,0
+1702911825619,52,/success.txt-7,200,OK,Thread Group 1-39,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,52,0,0
+1702911825557,114,/canonical.html-6,200,OK,Thread Group 1-43,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,114,0,55
+1702911825642,50,/success.txt-11,200,OK,Thread Group 1-38,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,50,0,0
+1702911823056,2642,/-5,200,OK,Thread Group 1-44,text,true,,15849,408,50,50,http://www.g-shop.shop/,2633,0,10
+1702911825652,54,/canonical.html-9,200,OK,Thread Group 1-37,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,54,0,0
+1702911825659,59,/success.txt-7,200,OK,Thread Group 1-41,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,59,0,0
+1702911825672,51,/canonical.html-9,200,OK,Thread Group 1-40,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,51,0,0
+1702911825672,51,/success.txt-8,200,OK,Thread Group 1-39,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,51,0,0
+1702911825672,55,/success.txt-7,200,OK,Thread Group 1-43,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,55,0,0
+1702911825634,103,/canonical.html-6,200,OK,Thread Group 1-50,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,103,0,55
+1702911825693,50,/success.txt-10,200,OK,Thread Group 1-38,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,50,0,0
+1702911822998,2746,/-5,200,OK,Thread Group 1-42,text,true,,15828,408,50,50,http://www.g-shop.shop/,2737,0,10
+1702911825707,53,/success.txt-11,200,OK,Thread Group 1-37,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,53,0,0
+1702911825666,95,/canonical.html-6,200,OK,Thread Group 1-49,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,94,0,47
+1702911825724,52,/canonical.html-9,200,OK,Thread Group 1-39,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,52,0,0
+1702911825718,59,/success.txt-8,200,OK,Thread Group 1-41,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,59,0,0
+1702911825723,57,/success.txt-11,200,OK,Thread Group 1-40,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,57,0,0
+1702911825727,55,/success.txt-8,200,OK,Thread Group 1-43,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,55,0,0
+1702911825737,49,/success.txt-7,200,OK,Thread Group 1-50,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,49,0,0
+1702911825699,91,/canonical.html-6,200,OK,Thread Group 1-44,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,91,0,44
+1702911823067,2724,/-5,200,OK,Thread Group 1-46,text,true,,15706,408,50,50,http://www.g-shop.shop/,2715,0,9
+1702911825761,48,/success.txt-7,200,OK,Thread Group 1-49,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,48,0,0
+1702911825761,54,/success.txt-10,200,OK,Thread Group 1-37,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,54,0,0
+1702911823102,2720,/-5,200,OK,Thread Group 1-48,text,true,,15877,408,50,50,http://www.g-shop.shop/,2711,0,10
+1702911825776,52,/success.txt-11,200,OK,Thread Group 1-39,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,52,0,0
+1702911825781,52,/success.txt-10,200,OK,Thread Group 1-40,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,52,0,0
+1702911825786,50,/success.txt-8,200,OK,Thread Group 1-50,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,50,0,0
+1702911825790,46,/success.txt-7,200,OK,Thread Group 1-44,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,46,0,0
+1702911825778,59,/canonical.html-9,200,OK,Thread Group 1-41,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,59,0,0
+1702911825782,58,/canonical.html-9,200,OK,Thread Group 1-43,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,58,0,0
+1702911825745,96,/canonical.html-6,200,OK,Thread Group 1-42,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,96,0,51
+1702911825809,48,/success.txt-8,200,OK,Thread Group 1-49,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,48,0,0
+1702911823085,2772,/-5,200,OK,Thread Group 1-47,text,true,,15709,408,50,50,http://www.g-shop.shop/,2764,0,10
+1702911825828,52,/success.txt-10,200,OK,Thread Group 1-39,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,52,0,0
+1702911825836,46,/success.txt-8,200,OK,Thread Group 1-44,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,46,0,0
+1702911825836,48,/canonical.html-9,200,OK,Thread Group 1-50,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,48,0,0
+1702911825841,45,/success.txt-7,200,OK,Thread Group 1-42,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,45,0,0
+1702911822869,3019,/-5,200,OK,Thread Group 1-36,text,true,,15985,408,50,50,http://www.g-shop.shop/,3010,0,10
+1702911823056,2835,/-5,200,OK,Thread Group 1-45,text,true,,15896,408,50,50,http://www.g-shop.shop/,2827,0,10
+1702911825840,55,/success.txt-11,200,OK,Thread Group 1-43,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,55,0,0
+1702911825837,59,/success.txt-11,200,OK,Thread Group 1-41,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,59,0,0
+1702911825792,111,/canonical.html-6,200,OK,Thread Group 1-46,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,111,0,55
+1702911825857,47,/canonical.html-9,200,OK,Thread Group 1-49,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,47,0,0
+1702911825822,91,/canonical.html-6,200,OK,Thread Group 1-48,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,91,0,45
+1702911825882,46,/canonical.html-9,200,OK,Thread Group 1-44,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,46,0,0
+1702911825886,45,/success.txt-8,200,OK,Thread Group 1-42,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,45,0,0
+1702911825885,48,/success.txt-11,200,OK,Thread Group 1-50,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,48,0,0
+1702911823501,2440,/catalog/ratsii-1-12,200,OK,Thread Group 1-7,text,true,,16602,420,50,50,http://www.g-shop.shop/catalog/ratsii-1,2432,0,0
+1702911825858,87,/canonical.html-6,200,OK,Thread Group 1-47,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,87,0,43
+1702911825895,56,/success.txt-10,200,OK,Thread Group 1-43,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,56,0,0
+1702911825905,47,/success.txt-11,200,OK,Thread Group 1-49,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,47,0,0
+1702911825896,59,/success.txt-10,200,OK,Thread Group 1-41,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,59,0,0
+1702911825913,46,/success.txt-7,200,OK,Thread Group 1-48,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,46,0,0
+1702911825903,56,/success.txt-7,200,OK,Thread Group 1-46,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,56,0,0
+1702911825928,46,/success.txt-11,200,OK,Thread Group 1-44,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,45,0,0
+1702911825931,44,/canonical.html-9,200,OK,Thread Group 1-42,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,44,0,0
+1702911825934,48,/success.txt-10,200,OK,Thread Group 1-50,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,48,0,0
+1702911825945,43,/success.txt-7,200,OK,Thread Group 1-47,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,43,0,0
+1702911825892,97,/canonical.html-6,200,OK,Thread Group 1-45,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,97,0,48
+1702911825888,106,/canonical.html-6,200,OK,Thread Group 1-36,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,106,0,53
+1702911825942,54,/canonical.html-13,200,OK,Thread Group 1-7,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,54,0,0
+1702911825952,47,/success.txt-10,200,OK,Thread Group 1-49,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,47,0,0
+1702911825959,45,/success.txt-8,200,OK,Thread Group 1-48,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,45,0,0
+1702911825959,56,/success.txt-8,200,OK,Thread Group 1-46,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,56,0,0
+1702911825974,45,/success.txt-10,200,OK,Thread Group 1-44,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,45,0,0
+1702911825976,44,/success.txt-11,200,OK,Thread Group 1-42,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,44,0,0
+1702911825989,43,/success.txt-8,200,OK,Thread Group 1-47,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,43,0,0
+1702911825990,49,/success.txt-7,200,OK,Thread Group 1-45,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,49,0,0
+1702911825994,53,/success.txt-7,200,OK,Thread Group 1-36,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,53,0,0
+1702911825996,54,/success.txt-14,200,OK,Thread Group 1-7,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,54,0,0
+1702911826004,46,/canonical.html-9,200,OK,Thread Group 1-48,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,46,0,0
+1702911826020,45,/success.txt-10,200,OK,Thread Group 1-42,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,45,0,0
+1702911826015,57,/canonical.html-9,200,OK,Thread Group 1-46,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,57,0,0
+1702911826032,44,/canonical.html-9,200,OK,Thread Group 1-47,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,44,0,0
+1702911826039,50,/success.txt-8,200,OK,Thread Group 1-45,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,50,0,0
+1702911826050,47,/success.txt-11,200,OK,Thread Group 1-48,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,47,0,0
+1702911826047,53,/success.txt-8,200,OK,Thread Group 1-36,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,53,0,0
+1702911826050,54,/success.txt-15,200,OK,Thread Group 1-7,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,54,0,0
+1702911826076,44,/success.txt-11,200,OK,Thread Group 1-47,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,44,0,0
+1702911826073,56,/success.txt-11,200,OK,Thread Group 1-46,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,56,0,0
+1702911826089,49,/canonical.html-9,200,OK,Thread Group 1-45,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,49,0,0
+1702911826098,46,/success.txt-10,200,OK,Thread Group 1-48,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,46,0,0
+1702911826101,56,/canonical.html-9,200,OK,Thread Group 1-36,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,56,0,0
+1702911823511,2648,/catalog/ratsii-1-12,200,OK,Thread Group 1-6,text,true,,16597,420,50,50,http://www.g-shop.shop/catalog/ratsii-1,2639,0,0
+1702911826120,44,/success.txt-10,200,OK,Thread Group 1-47,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,44,0,0
+1702911826129,56,/success.txt-10,200,OK,Thread Group 1-46,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,56,0,0
+1702911826139,49,/success.txt-11,200,OK,Thread Group 1-45,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,49,0,0
+1702911826157,54,/success.txt-11,200,OK,Thread Group 1-36,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,53,0,0
+1702911826159,52,/canonical.html-13,200,OK,Thread Group 1-6,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,52,0,0
+1702911826188,49,/success.txt-10,200,OK,Thread Group 1-45,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,49,0,0
+1702911826212,51,/success.txt-14,200,OK,Thread Group 1-6,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,51,0,0
+1702911826211,54,/success.txt-10,200,OK,Thread Group 1-36,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,54,0,0
+1702911826264,52,/success.txt-15,200,OK,Thread Group 1-6,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,52,0,0
+1702911823511,2849,/catalog/ratsii-1-12,200,OK,Thread Group 1-5,text,true,,16598,420,50,50,http://www.g-shop.shop/catalog/ratsii-1,2841,0,0
+1702911823581,2798,/catalog/ratsii-1-12,200,OK,Thread Group 1-8,text,true,,16599,420,50,50,http://www.g-shop.shop/catalog/ratsii-1,2789,0,0
+1702911826361,48,/canonical.html-13,200,OK,Thread Group 1-5,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,48,0,0
+1702911823499,2911,/catalog/ratsii-1-12,200,OK,Thread Group 1-1,text,true,,16594,420,50,50,http://www.g-shop.shop/catalog/ratsii-1,2902,0,0
+1702911826379,54,/canonical.html-13,200,OK,Thread Group 1-8,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,54,0,0
+1702911826410,45,/canonical.html-13,200,OK,Thread Group 1-1,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,45,0,0
+1702911826409,48,/success.txt-14,200,OK,Thread Group 1-5,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,48,0,0
+1702911826433,55,/success.txt-14,200,OK,Thread Group 1-8,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,55,0,0
+1702911826455,45,/success.txt-14,200,OK,Thread Group 1-1,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,45,0,0
+1702911826458,48,/success.txt-15,200,OK,Thread Group 1-5,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,48,0,0
+1702911826488,55,/success.txt-15,200,OK,Thread Group 1-8,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,55,0,0
+1702911826501,44,/success.txt-15,200,OK,Thread Group 1-1,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,44,0,0
+1702911824093,2467,/catalog/ratsii-1-12,200,OK,Thread Group 1-11,text,true,,16594,420,50,50,http://www.g-shop.shop/catalog/ratsii-1,2459,0,0
+1702911826561,45,/canonical.html-13,200,OK,Thread Group 1-11,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,45,0,0
+1702911823532,3103,/catalog/ratsii-1-12,200,OK,Thread Group 1-10,text,true,,16599,420,50,50,http://www.g-shop.shop/catalog/ratsii-1,3094,0,0
+1702911826606,45,/success.txt-14,200,OK,Thread Group 1-11,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,45,0,0
+1702911826635,45,/canonical.html-13,200,OK,Thread Group 1-10,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,45,0,0
+1702911826651,46,/success.txt-15,200,OK,Thread Group 1-11,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,46,0,0
+1702911826680,45,/success.txt-14,200,OK,Thread Group 1-10,text,true,,215,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,45,0,0
+1702911823524,3241,/catalog/ratsii-1-12,200,OK,Thread Group 1-3,text,true,,16596,420,50,50,http://www.g-shop.shop/catalog/ratsii-1,3232,0,0
+1702911826725,45,/success.txt-15,200,OK,Thread Group 1-10,text,true,,215,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,45,0,0
+1702911823552,3245,/catalog/ratsii-1-12,200,OK,Thread Group 1-4,text,true,,16596,420,50,50,http://www.g-shop.shop/catalog/ratsii-1,3236,0,0
+1702911824191,2609,/catalog/ratsii-1-12,200,OK,Thread Group 1-12,text,true,,16600,420,50,50,http://www.g-shop.shop/catalog/ratsii-1,2600,0,0
+1702911826765,54,/canonical.html-13,200,OK,Thread Group 1-3,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,54,0,0
+1702911826800,48,/canonical.html-13,200,OK,Thread Group 1-12,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,47,0,0
+1702911826797,53,/canonical.html-13,200,OK,Thread Group 1-4,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,53,0,0
+1702911826819,55,/success.txt-14,200,OK,Thread Group 1-3,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,55,0,0
+1702911826848,48,/success.txt-14,200,OK,Thread Group 1-12,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,48,0,0
+1702911824470,2430,/catalog/ratsii-1-12,200,OK,Thread Group 1-21,text,true,,16596,420,50,50,http://www.g-shop.shop/catalog/ratsii-1,2421,0,0
+1702911826850,52,/success.txt-14,200,OK,Thread Group 1-4,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,52,0,0
+1702911826874,55,/success.txt-15,200,OK,Thread Group 1-3,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,55,0,0
+1702911826896,48,/success.txt-15,200,OK,Thread Group 1-12,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,48,0,0
+1702911826900,53,/canonical.html-13,200,OK,Thread Group 1-21,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,53,0,0
+1702911826903,52,/success.txt-15,200,OK,Thread Group 1-4,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,52,0,0
+1702911826953,54,/success.txt-14,200,OK,Thread Group 1-21,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,54,0,0
+1702911824336,2718,/catalog/ratsii-1-12,200,OK,Thread Group 1-16,text,true,,16598,420,50,50,http://www.g-shop.shop/catalog/ratsii-1,2709,0,0
+1702911827007,53,/success.txt-15,200,OK,Thread Group 1-21,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,53,0,0
+1702911827054,54,/canonical.html-13,200,OK,Thread Group 1-16,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,54,0,0
+1702911824336,2780,/catalog/ratsii-1-12,200,OK,Thread Group 1-15,text,true,,16596,420,50,50,http://www.g-shop.shop/catalog/ratsii-1,2771,0,0
+1702911823551,3599,/catalog/ratsii-1-12,200,OK,Thread Group 1-2,text,true,,16594,420,50,50,http://www.g-shop.shop/catalog/ratsii-1,3587,0,0
+1702911827108,54,/success.txt-14,200,OK,Thread Group 1-16,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,54,0,0
+1702911827117,57,/canonical.html-13,200,OK,Thread Group 1-15,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,57,0,0
+1702911827150,46,/canonical.html-13,200,OK,Thread Group 1-2,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,46,0,0
+1702911827162,53,/success.txt-15,200,OK,Thread Group 1-16,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,53,0,0
+1702911827174,55,/success.txt-14,200,OK,Thread Group 1-15,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,55,0,0
+1702911827196,46,/success.txt-14,200,OK,Thread Group 1-2,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,46,0,0
+1702911827229,53,/success.txt-15,200,OK,Thread Group 1-15,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,53,0,0
+1702911824639,2646,/catalog/ratsii-1-12,200,OK,Thread Group 1-13,text,true,,16595,420,50,50,http://www.g-shop.shop/catalog/ratsii-1,2638,0,0
+1702911827242,46,/success.txt-15,200,OK,Thread Group 1-2,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,46,0,0
+1702911827286,49,/canonical.html-13,200,OK,Thread Group 1-13,text,true,,297,324,50,50,http://detectportal.firefox.com/canonical.html,49,0,0
+1702911824329,3008,/catalog/ratsii-1-12,200,OK,Thread Group 1-19,text,true,,16598,420,50,50,http://www.g-shop.shop/catalog/ratsii-1,3000,0,0
+1702911827335,44,/success.txt-14,200,OK,Thread Group 1-13,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,44,0,0
+1702911827338,47,/canonical.html-13,200,OK,Thread Group 1-19,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,47,0,0
+1702911827380,46,/success.txt-15,200,OK,Thread Group 1-13,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,46,0,0
+1702911827385,46,/success.txt-14,200,OK,Thread Group 1-19,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,46,0,0
+1702911824282,3181,/catalog/ratsii-1-12,200,OK,Thread Group 1-14,text,true,,16588,420,50,50,http://www.g-shop.shop/catalog/ratsii-1,3172,0,0
+1702911824363,3110,/catalog/ratsii-1-12,200,OK,Thread Group 1-18,text,true,,16598,420,50,50,http://www.g-shop.shop/catalog/ratsii-1,3102,0,0
+1702911827432,46,/success.txt-15,200,OK,Thread Group 1-19,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,46,0,0
+1702911824431,3073,/catalog/ratsii-1-12,200,OK,Thread Group 1-17,text,true,,16597,420,50,50,http://www.g-shop.shop/catalog/ratsii-1,3064,0,0
+1702911827465,45,/canonical.html-13,200,OK,Thread Group 1-14,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,45,0,0
+1702911827475,44,/canonical.html-13,200,OK,Thread Group 1-18,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,44,0,0
+1702911827510,45,/success.txt-14,200,OK,Thread Group 1-14,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,45,0,0
+1702911827505,54,/canonical.html-13,200,OK,Thread Group 1-17,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,54,0,0
+1702911827520,44,/success.txt-14,200,OK,Thread Group 1-18,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,44,0,0
+1702911827555,45,/success.txt-15,200,OK,Thread Group 1-14,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,45,0,0
+1702911827565,45,/success.txt-15,200,OK,Thread Group 1-18,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,45,0,0
+1702911827559,55,/success.txt-14,200,OK,Thread Group 1-17,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,55,0,0
+1702911825003,2646,/catalog/ratsii-1-12,200,OK,Thread Group 1-24,text,true,,16602,420,50,50,http://www.g-shop.shop/catalog/ratsii-1,2638,0,0
+1702911825049,2617,/catalog/ratsii-1-12,200,OK,Thread Group 1-29,text,true,,16597,420,50,50,http://www.g-shop.shop/catalog/ratsii-1,2608,0,0
+1702911827614,55,/success.txt-15,200,OK,Thread Group 1-17,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,55,0,0
+1702911827650,52,/canonical.html-13,200,OK,Thread Group 1-24,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,52,0,0
+1702911827667,46,/canonical.html-13,200,OK,Thread Group 1-29,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,46,0,0
+1702911824945,2793,/catalog/ratsii-1-12,200,OK,Thread Group 1-25,text,true,,16601,420,50,50,http://www.g-shop.shop/catalog/ratsii-1,2784,0,0
+1702911827714,44,/success.txt-14,200,OK,Thread Group 1-29,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,44,0,0
+1702911827703,55,/success.txt-14,200,OK,Thread Group 1-24,text,true,,215,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,55,0,0
+1702911827739,54,/canonical.html-13,200,OK,Thread Group 1-25,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,53,0,0
+1702911824488,3310,/catalog/ratsii-1-12,200,OK,Thread Group 1-20,text,true,,16592,420,50,50,http://www.g-shop.shop/catalog/ratsii-1,3300,0,0
+1702911826104,1694,/catalog/add/11-16,500,Internal Server Error,Thread Group 1-7,text,false,,2977,591,50,50,http://www.g-shop.shop/catalog/add/11,1694,0,0
+1702911827759,43,/success.txt-15,200,OK,Thread Group 1-29,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,43,0,0
+1702911827759,51,/success.txt-15,200,OK,Thread Group 1-24,text,true,,215,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,51,0,0
+1702911824835,2977,/catalog/ratsii-1-12,200,OK,Thread Group 1-22,text,true,,16597,420,50,50,http://www.g-shop.shop/catalog/ratsii-1,2969,0,0
+1702911826316,1503,/catalog/add/11-16,500,Internal Server Error,Thread Group 1-6,text,false,,2971,591,50,50,http://www.g-shop.shop/catalog/add/11,1503,0,0
+1702911827793,53,/success.txt-14,200,OK,Thread Group 1-25,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,53,0,0
+1702911827799,57,/canonical.html-13,200,OK,Thread Group 1-20,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,57,0,0
+1702911827813,53,/canonical.html-13,200,OK,Thread Group 1-22,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,53,0,0
+1702911825319,2560,/catalog/ratsii-1-12,200,OK,Thread Group 1-32,text,true,,16597,420,50,50,http://www.g-shop.shop/catalog/ratsii-1,2551,0,0
+1702911827847,55,/success.txt-15,200,OK,Thread Group 1-25,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,55,0,0
+1702911827856,57,/success.txt-14,200,OK,Thread Group 1-20,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,57,0,0
+1702911827866,51,/success.txt-14,200,OK,Thread Group 1-22,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,51,0,0
+1702911827880,56,/canonical.html-13,200,OK,Thread Group 1-32,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,56,0,0
+1702911825067,2881,/catalog/ratsii-1-12,200,OK,Thread Group 1-28,text,true,,16596,420,50,50,http://www.g-shop.shop/catalog/ratsii-1,2872,0,0
+1702911827917,50,/success.txt-15,200,OK,Thread Group 1-22,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,50,0,0
+1702911827913,58,/success.txt-15,200,OK,Thread Group 1-20,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,58,0,0
+1702911827936,54,/success.txt-14,200,OK,Thread Group 1-32,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,54,0,0
+1702911823564,4428,/catalog/ratsii-1-12,200,OK,Thread Group 1-9,text,true,,16594,420,50,50,http://www.g-shop.shop/catalog/ratsii-1,4420,0,0
+1702911827949,46,/canonical.html-13,200,OK,Thread Group 1-28,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,46,0,0
+1702911826506,1502,/catalog/add/11-16,500,Internal Server Error,Thread Group 1-5,text,false,,2975,591,50,50,http://www.g-shop.shop/catalog/add/11,1502,0,0
+1702911827993,49,/canonical.html-13,200,OK,Thread Group 1-9,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,49,0,0
+1702911827995,48,/success.txt-14,200,OK,Thread Group 1-28,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,48,0,0
+1702911827991,54,/success.txt-15,200,OK,Thread Group 1-32,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,54,0,0
+1702911828043,46,/success.txt-15,200,OK,Thread Group 1-28,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,46,0,0
+1702911828043,48,/success.txt-14,200,OK,Thread Group 1-9,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,48,0,0
+1702911825191,2936,/catalog/ratsii-1-12,200,OK,Thread Group 1-31,text,true,,16589,420,50,50,http://www.g-shop.shop/catalog/ratsii-1,2926,0,0
+1702911826546,1591,/catalog/add/11-16,500,Internal Server Error,Thread Group 1-1,text,false,,2971,591,50,50,http://www.g-shop.shop/catalog/add/11,1591,0,0
+1702911828091,49,/success.txt-15,200,OK,Thread Group 1-9,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,49,0,0
+1702911826770,1373,/catalog/add/11-16,500,Internal Server Error,Thread Group 1-10,text,false,,2973,591,50,50,http://www.g-shop.shop/catalog/add/11,1373,0,0
+1702911828130,57,/canonical.html-13,200,OK,Thread Group 1-31,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,57,0,0
+1702911828187,57,/success.txt-14,200,OK,Thread Group 1-31,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,57,0,0
+1702911824942,3356,/catalog/ratsii-1-12,200,OK,Thread Group 1-23,text,true,,16594,420,50,50,http://www.g-shop.shop/catalog/ratsii-1,3347,0,0
+1702911828244,58,/success.txt-15,200,OK,Thread Group 1-31,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,58,0,0
+1702911825071,3238,/catalog/ratsii-1-12,200,OK,Thread Group 1-26,text,true,,16593,420,50,50,http://www.g-shop.shop/catalog/ratsii-1,3229,0,0
+1702911828300,51,/canonical.html-13,200,OK,Thread Group 1-23,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,51,0,0
+1702911828310,57,/canonical.html-13,200,OK,Thread Group 1-26,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,57,0,0
+1702911826945,1428,/catalog/add/11-16,500,Internal Server Error,Thread Group 1-12,text,false,,2973,591,50,50,http://www.g-shop.shop/catalog/add/11,1428,0,0
+1702911828351,52,/success.txt-14,200,OK,Thread Group 1-23,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,51,0,0
+1702911828367,58,/success.txt-14,200,OK,Thread Group 1-26,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,58,0,0
+1702911827426,1029,/catalog/add/11-16,500,Internal Server Error,Thread Group 1-13,text,false,,2969,591,50,50,http://www.g-shop.shop/catalog/add/11,1029,0,0
+1702911828403,55,/success.txt-15,200,OK,Thread Group 1-23,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,55,0,0
+1702911828425,57,/success.txt-15,200,OK,Thread Group 1-26,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,57,0,0
+1702911827283,1214,/catalog/add/11-16,500,Internal Server Error,Thread Group 1-15,text,false,,2977,591,50,50,http://www.g-shop.shop/catalog/add/11,1214,0,0
+1702911827479,1039,/catalog/add/11-16,500,Internal Server Error,Thread Group 1-19,text,false,,2969,591,50,50,http://www.g-shop.shop/catalog/add/11,1039,0,0
+1702911826543,1981,/catalog/add/11-16,500,Internal Server Error,Thread Group 1-8,text,false,,2969,591,50,50,http://www.g-shop.shop/catalog/add/11,1981,0,0
+1702911827600,928,/catalog/add/11-16,500,Internal Server Error,Thread Group 1-14,text,false,,2971,591,50,50,http://www.g-shop.shop/catalog/add/11,928,0,0
+1702911826955,1611,/catalog/add/11-16,500,Internal Server Error,Thread Group 1-4,text,false,,2975,591,50,50,http://www.g-shop.shop/catalog/add/11,1611,0,0
+1702911825209,3413,/catalog/ratsii-1-12,200,OK,Thread Group 1-30,text,true,,16595,420,50,50,http://www.g-shop.shop/catalog/ratsii-1,3404,0,0
+1702911828623,50,/canonical.html-13,200,OK,Thread Group 1-30,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,50,0,0
+1702911826929,1779,/catalog/add/11-16,500,Internal Server Error,Thread Group 1-3,text,false,,2971,591,50,50,http://www.g-shop.shop/catalog/add/11,1779,0,0
+1702911827971,744,/catalog/add/11-16,500,Internal Server Error,Thread Group 1-20,text,false,,2969,591,50,50,http://www.g-shop.shop/catalog/add/11,743,0,0
+1702911827289,1427,/catalog/add/11-16,500,Internal Server Error,Thread Group 1-2,text,false,,2973,591,50,50,http://www.g-shop.shop/catalog/add/11,1427,0,0
+1702911828673,49,/success.txt-14,200,OK,Thread Group 1-30,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,49,0,0
+1702911827060,1668,/catalog/add/11-16,500,Internal Server Error,Thread Group 1-21,text,false,,2977,591,50,50,http://www.g-shop.shop/catalog/add/11,1668,0,0
+1702911827802,961,/catalog/add/11-16,500,Internal Server Error,Thread Group 1-29,text,false,,2973,591,50,50,http://www.g-shop.shop/catalog/add/11,961,0,0
+1702911828722,49,/success.txt-15,200,OK,Thread Group 1-30,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,49,0,0
+1702911826697,2094,/catalog/add/11-16,500,Internal Server Error,Thread Group 1-11,text,false,,2977,591,50,50,http://www.g-shop.shop/catalog/add/11,2094,0,0
+1702911827810,1000,/catalog/add/11-16,500,Internal Server Error,Thread Group 1-24,text,false,,2969,591,50,50,http://www.g-shop.shop/catalog/add/11,1000,0,0
+1702911827216,1646,/catalog/add/11-16,500,Internal Server Error,Thread Group 1-16,text,false,,2969,591,50,50,http://www.g-shop.shop/catalog/add/11,1646,0,0
+1702911825556,3397,/catalog/ratsii-1-12,200,OK,Thread Group 1-35,text,true,,16603,420,50,50,http://www.g-shop.shop/catalog/ratsii-1,3388,0,0
+1702911827669,1305,/catalog/add/11-16,500,Internal Server Error,Thread Group 1-17,text,false,,2971,591,50,50,http://www.g-shop.shop/catalog/add/11,1305,0,0
+1702911825110,3865,/catalog/ratsii-1-12,200,OK,Thread Group 1-27,text,true,,16595,420,50,50,http://www.g-shop.shop/catalog/ratsii-1,3857,0,0
+1702911828045,942,/catalog/add/11-16,500,Internal Server Error,Thread Group 1-32,text,false,,2969,591,50,50,http://www.g-shop.shop/catalog/add/11,942,0,0
+1702911828139,850,/catalog/add/169-17,500,Internal Server Error,Thread Group 1-1,text,false,,2971,592,50,50,http://www.g-shop.shop/catalog/add/169,850,0,0
+1702911828954,48,/canonical.html-13,200,OK,Thread Group 1-35,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,48,0,0
+1702911827610,1395,/catalog/add/11-16,500,Internal Server Error,Thread Group 1-18,text,false,,2977,591,50,50,http://www.g-shop.shop/catalog/add/11,1395,0,0
+1702911827968,1037,/catalog/add/11-16,500,Internal Server Error,Thread Group 1-22,text,false,,2971,591,50,50,http://www.g-shop.shop/catalog/add/11,1037,0,0
+1702911828145,885,/catalog/add/169-17,500,Internal Server Error,Thread Group 1-10,text,false,,2977,592,50,50,http://www.g-shop.shop/catalog/add/169,885,0,0
+1702911828976,61,/canonical.html-13,200,OK,Thread Group 1-27,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,61,0,0
+1702911827820,1223,/catalog/add/169-17,500,Internal Server Error,Thread Group 1-6,text,false,,2977,592,50,50,http://www.g-shop.shop/catalog/add/169,1223,0,0
+1702911829003,48,/success.txt-14,200,OK,Thread Group 1-35,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,48,0,0
+1702911827800,1281,/catalog/add/169-17,500,Internal Server Error,Thread Group 1-7,text,false,,2971,592,50,50,http://www.g-shop.shop/catalog/add/169,1281,0,0
+1702911829037,60,/success.txt-14,200,OK,Thread Group 1-27,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,60,0,0
+1702911829051,48,/success.txt-15,200,OK,Thread Group 1-35,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,48,0,0
+1702911826164,2943,/catalog/ratsii-1-12,200,OK,Thread Group 1-47,text,true,,16597,420,50,50,http://www.g-shop.shop/catalog/ratsii-1,2935,0,0
+1702911827902,1228,/catalog/add/11-16,500,Internal Server Error,Thread Group 1-25,text,false,,2973,591,50,50,http://www.g-shop.shop/catalog/add/11,1228,0,0
+1702911829109,43,/canonical.html-13,200,OK,Thread Group 1-47,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,43,0,0
+1702911829097,61,/success.txt-15,200,OK,Thread Group 1-27,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,61,0,0
+1702911828458,720,/catalog/add/11-16,500,Internal Server Error,Thread Group 1-23,text,false,,2971,591,50,50,http://www.g-shop.shop/catalog/add/11,720,0,0
+1702911829153,43,/success.txt-14,200,OK,Thread Group 1-47,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,43,0,0
+1702911828010,1199,/catalog/add/169-17,500,Internal Server Error,Thread Group 1-5,text,false,,2973,592,50,50,http://www.g-shop.shop/catalog/add/169,1199,0,0
+1702911825368,3843,/catalog/ratsii-1-12,200,OK,Thread Group 1-33,text,true,,16600,420,50,50,http://www.g-shop.shop/catalog/ratsii-1,3834,0,0
+1702911828568,648,/catalog/add/169-17,500,Internal Server Error,Thread Group 1-4,text,false,,2969,592,50,50,http://www.g-shop.shop/catalog/add/169,648,0,0
+1702911828089,1136,/catalog/add/11-16,500,Internal Server Error,Thread Group 1-28,text,false,,2973,591,50,50,http://www.g-shop.shop/catalog/add/11,1136,0,0
+1702911825815,3418,/catalog/ratsii-1-12,200,OK,Thread Group 1-37,text,true,,16604,420,50,50,http://www.g-shop.shop/catalog/ratsii-1,3410,0,0
+1702911829196,44,/success.txt-15,200,OK,Thread Group 1-47,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,44,0,0
+1702911825982,3262,/catalog/ratsii-1-12,200,OK,Thread Group 1-50,text,true,,16601,420,50,50,http://www.g-shop.shop/catalog/ratsii-1,3253,0,0
+1702911825833,3422,/catalog/ratsii-1-12,200,OK,Thread Group 1-40,text,true,,16607,420,50,50,http://www.g-shop.shop/catalog/ratsii-1,3414,0,0
+1702911825744,3519,/catalog/ratsii-1-12,200,OK,Thread Group 1-38,text,true,,16596,420,50,50,http://www.g-shop.shop/catalog/ratsii-1,3511,0,0
+1702911829212,58,/canonical.html-13,200,OK,Thread Group 1-33,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,58,0,0
+1702911829234,54,/canonical.html-13,200,OK,Thread Group 1-37,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,54,0,0
+1702911829245,48,/canonical.html-13,200,OK,Thread Group 1-50,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,48,0,0
+1702911829256,52,/canonical.html-13,200,OK,Thread Group 1-40,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,52,0,0
+1702911828302,1006,/catalog/add/11-16,500,Internal Server Error,Thread Group 1-31,text,false,,2971,591,50,50,http://www.g-shop.shop/catalog/add/11,1006,0,0
+1702911829265,50,/canonical.html-13,200,OK,Thread Group 1-38,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,50,0,0
+1702911828528,794,/catalog/add/169-17,500,Internal Server Error,Thread Group 1-14,text,false,,2973,592,50,50,http://www.g-shop.shop/catalog/add/169,794,0,0
+1702911829270,58,/success.txt-14,200,OK,Thread Group 1-33,text,true,,215,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,58,0,0
+1702911825584,3747,/catalog/ratsii-1-12,200,OK,Thread Group 1-34,text,true,,16592,420,50,50,http://www.g-shop.shop/catalog/ratsii-1,3738,0,0
+1702911829293,49,/success.txt-14,200,OK,Thread Group 1-50,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,49,0,0
+1702911829288,54,/success.txt-14,200,OK,Thread Group 1-37,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,54,0,0
+1702911828763,584,/catalog/add/169-17,500,Internal Server Error,Thread Group 1-29,text,false,,2973,592,50,50,http://www.g-shop.shop/catalog/add/169,584,0,0
+1702911829308,54,/success.txt-14,200,OK,Thread Group 1-40,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,54,0,0
+1702911829315,51,/success.txt-14,200,OK,Thread Group 1-38,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,51,0,0
+1702911829332,51,/canonical.html-13,200,OK,Thread Group 1-34,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,51,0,0
+1702911829328,59,/success.txt-15,200,OK,Thread Group 1-33,text,true,,215,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,58,0,0
+1702911828141,1248,/catalog/add/11-16,500,Internal Server Error,Thread Group 1-9,text,false,,2971,591,50,50,http://www.g-shop.shop/catalog/add/11,1248,0,0
+1702911828497,893,/catalog/add/169-17,500,Internal Server Error,Thread Group 1-15,text,false,,2971,592,50,50,http://www.g-shop.shop/catalog/add/169,893,0,0
+1702911829342,48,/success.txt-15,200,OK,Thread Group 1-50,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,48,0,0
+1702911829342,54,/success.txt-15,200,OK,Thread Group 1-37,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,54,0,0
+1702911829362,52,/success.txt-15,200,OK,Thread Group 1-40,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,52,0,0
+1702911829366,50,/success.txt-15,200,OK,Thread Group 1-38,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,50,0,0
+1702911829383,50,/success.txt-14,200,OK,Thread Group 1-34,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,50,0,0
+1702911828375,1087,/catalog/add/169-17,500,Internal Server Error,Thread Group 1-12,text,false,,2971,592,50,50,http://www.g-shop.shop/catalog/add/169,1087,0,0
+1702911828482,995,/catalog/add/11-16,500,Internal Server Error,Thread Group 1-26,text,false,,2969,591,50,50,http://www.g-shop.shop/catalog/add/11,995,0,0
+1702911829433,53,/success.txt-15,200,OK,Thread Group 1-34,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,53,0,0
+1702911828518,968,/catalog/add/169-17,500,Internal Server Error,Thread Group 1-19,text,false,,2971,592,50,50,http://www.g-shop.shop/catalog/add/169,968,0,0
+1702911828456,1049,/catalog/add/169-17,500,Internal Server Error,Thread Group 1-13,text,false,,2973,592,50,50,http://www.g-shop.shop/catalog/add/169,1049,0,0
+1702911828771,735,/catalog/add/11-16,500,Internal Server Error,Thread Group 1-30,text,false,,2977,591,50,50,http://www.g-shop.shop/catalog/add/11,735,0,0
+1702911829005,519,/catalog/add/169-17,500,Internal Server Error,Thread Group 1-22,text,false,,2977,592,50,50,http://www.g-shop.shop/catalog/add/169,519,0,0
+1702911825999,3533,/catalog/ratsii-1-12,200,OK,Thread Group 1-49,text,true,,16595,420,50,50,http://www.g-shop.shop/catalog/ratsii-1,3524,0,0
+1702911826185,3377,/catalog/ratsii-1-12,200,OK,Thread Group 1-46,text,true,,16597,420,50,50,http://www.g-shop.shop/catalog/ratsii-1,3368,0,0
+1702911829533,48,/canonical.html-13,200,OK,Thread Group 1-49,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,48,0,0
+1702911828525,1063,/catalog/add/169-17,500,Internal Server Error,Thread Group 1-8,text,false,,2973,592,50,50,http://www.g-shop.shop/catalog/add/169,1063,0,0
+1702911826265,3328,/catalog/ratsii-1-12,200,OK,Thread Group 1-36,text,true,,16604,420,50,50,http://www.g-shop.shop/catalog/ratsii-1,3319,0,0
+1702911829563,56,/canonical.html-13,200,OK,Thread Group 1-46,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,56,0,0
+1702911829581,47,/success.txt-14,200,OK,Thread Group 1-49,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,47,0,0
+1702911828716,924,/catalog/add/169-17,500,Internal Server Error,Thread Group 1-2,text,false,,2975,592,50,50,http://www.g-shop.shop/catalog/add/169,924,0,0
+1702911829594,55,/canonical.html-13,200,OK,Thread Group 1-36,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,55,0,0
+1702911829619,56,/success.txt-14,200,OK,Thread Group 1-46,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,56,0,0
+1702911829629,47,/success.txt-15,200,OK,Thread Group 1-49,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,47,0,0
+1702911826066,3609,/catalog/ratsii-1-12,200,OK,Thread Group 1-42,text,true,,16599,420,50,50,http://www.g-shop.shop/catalog/ratsii-1,3600,0,0
+1702911829131,553,/catalog/add/169-17,500,Internal Server Error,Thread Group 1-25,text,false,,2973,592,50,50,http://www.g-shop.shop/catalog/add/169,553,0,0
+1702911829649,53,/success.txt-14,200,OK,Thread Group 1-36,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,53,0,0
+1702911826237,3468,/catalog/ratsii-1-12,200,OK,Thread Group 1-45,text,true,,16605,420,50,50,http://www.g-shop.shop/catalog/ratsii-1,3459,0,0
+1702911828710,999,/catalog/add/169-17,500,Internal Server Error,Thread Group 1-3,text,false,,2975,592,50,50,http://www.g-shop.shop/catalog/add/169,999,0,0
+1702911828792,921,/catalog/add/169-17,500,Internal Server Error,Thread Group 1-11,text,false,,2969,592,50,50,http://www.g-shop.shop/catalog/add/169,921,0,0
+1702911829676,45,/canonical.html-13,200,OK,Thread Group 1-42,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,45,0,0
+1702911829675,55,/success.txt-15,200,OK,Thread Group 1-46,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,55,0,0
+1702911828715,1025,/catalog/add/169-17,500,Internal Server Error,Thread Group 1-20,text,false,,2973,592,50,50,http://www.g-shop.shop/catalog/add/169,1025,0,0
+1702911829706,57,/canonical.html-13,200,OK,Thread Group 1-45,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,57,0,0
+1702911829702,61,/success.txt-15,200,OK,Thread Group 1-36,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,61,0,0
+1702911825951,3811,/catalog/ratsii-1-12,200,OK,Thread Group 1-43,text,true,,16596,420,50,50,http://www.g-shop.shop/catalog/ratsii-1,3796,0,0
+1702911828729,1035,/catalog/add/169-17,500,Internal Server Error,Thread Group 1-21,text,false,,2969,592,50,50,http://www.g-shop.shop/catalog/add/169,1034,0,0
+1702911828863,902,/catalog/add/169-17,500,Internal Server Error,Thread Group 1-16,text,false,,2973,592,50,50,http://www.g-shop.shop/catalog/add/169,902,0,0
+1702911829721,49,/success.txt-14,200,OK,Thread Group 1-42,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,49,0,0
+1702911828810,1000,/catalog/add/169-17,500,Internal Server Error,Thread Group 1-24,text,false,,2971,592,50,50,http://www.g-shop.shop/catalog/add/169,1000,0,0
+1702911829763,50,/success.txt-14,200,OK,Thread Group 1-45,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,50,0,0
+1702911829770,45,/success.txt-15,200,OK,Thread Group 1-42,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,45,0,0
+1702911829763,57,/canonical.html-13,200,OK,Thread Group 1-43,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,57,0,0
+1702911825955,3876,/catalog/ratsii-1-12,200,OK,Thread Group 1-41,text,true,,16604,420,50,50,http://www.g-shop.shop/catalog/ratsii-1,3868,0,0
+1702911829813,49,/success.txt-15,200,OK,Thread Group 1-45,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,49,0,0
+1702911829820,60,/success.txt-14,200,OK,Thread Group 1-43,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,60,0,0
+1702911826144,3735,/catalog/ratsii-1-12,200,OK,Thread Group 1-48,text,true,,16597,420,50,50,http://www.g-shop.shop/catalog/ratsii-1,3723,0,0
+1702911829832,59,/canonical.html-13,200,OK,Thread Group 1-41,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,59,0,0
+1702911829005,912,/catalog/add/169-17,500,Internal Server Error,Thread Group 1-18,text,false,,2969,592,50,50,http://www.g-shop.shop/catalog/add/169,912,0,0
+1702911829880,45,/canonical.html-13,200,OK,Thread Group 1-48,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,45,0,0
+1702911829880,58,/success.txt-15,200,OK,Thread Group 1-43,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,58,0,0
+1702911829891,65,/success.txt-14,200,OK,Thread Group 1-41,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,65,0,0
+1702911829926,54,/success.txt-14,200,OK,Thread Group 1-48,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,53,0,0
+1702911825880,4111,/catalog/ratsii-1-12,200,OK,Thread Group 1-39,text,true,,16595,420,50,50,http://www.g-shop.shop/catalog/ratsii-1,4099,0,0
+1702911829240,752,/catalog/add/11-16,500,Internal Server Error,Thread Group 1-47,text,false,,2969,591,50,50,http://www.g-shop.shop/catalog/add/11,752,0,0
+1702911826019,3972,/catalog/ratsii-1-12,200,OK,Thread Group 1-44,text,true,,16605,420,50,50,http://www.g-shop.shop/catalog/ratsii-1,3962,0,0
+1702911828974,1037,/catalog/add/169-17,500,Internal Server Error,Thread Group 1-17,text,false,,2977,592,50,50,http://www.g-shop.shop/catalog/add/169,1037,0,0
+1702911829178,833,/catalog/add/169-17,500,Internal Server Error,Thread Group 1-23,text,false,,2971,592,50,50,http://www.g-shop.shop/catalog/add/169,833,0,0
+1702911829957,68,/success.txt-15,200,OK,Thread Group 1-41,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,68,0,0
+1702911829980,45,/success.txt-15,200,OK,Thread Group 1-48,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,45,0,0
+1702911829993,46,/canonical.html-13,200,OK,Thread Group 1-44,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,46,0,0
+1702911829993,57,/canonical.html-13,200,OK,Thread Group 1-39,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,57,0,0
+1702911829225,834,/catalog/add/169-17,500,Internal Server Error,Thread Group 1-28,text,false,,2969,592,50,50,http://www.g-shop.shop/catalog/add/169,833,0,0
+1702911830039,45,/success.txt-14,200,OK,Thread Group 1-44,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,45,0,0
+1702911830050,53,/success.txt-14,200,OK,Thread Group 1-39,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,53,0,0
+1702911829158,955,/catalog/add/11-16,500,Internal Server Error,Thread Group 1-27,text,false,,2969,591,50,50,http://www.g-shop.shop/catalog/add/11,955,0,0
+1702911830084,49,/success.txt-15,200,OK,Thread Group 1-44,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,49,0,0
+1702911828987,1147,/catalog/add/169-17,500,Internal Server Error,Thread Group 1-32,text,false,,2969,592,50,50,http://www.g-shop.shop/catalog/add/169,1146,0,0
+1702911830104,52,/success.txt-15,200,OK,Thread Group 1-39,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,52,0,0
+1702911829099,1094,/catalog/add/11-16,500,Internal Server Error,Thread Group 1-35,text,false,,2973,591,50,50,http://www.g-shop.shop/catalog/add/11,1094,0,0
+1702911829414,862,/catalog/add/11-16,500,Internal Server Error,Thread Group 1-40,text,false,,2973,591,50,50,http://www.g-shop.shop/catalog/add/11,862,0,0
+1702911829387,944,/catalog/add/11-16,500,Internal Server Error,Thread Group 1-33,text,false,,2973,591,50,50,http://www.g-shop.shop/catalog/add/11,944,0,0
+1702911829390,971,/catalog/add/11-16,500,Internal Server Error,Thread Group 1-50,text,false,,2973,591,50,50,http://www.g-shop.shop/catalog/add/11,971,0,0
+1702911829308,1063,/catalog/add/169-17,500,Internal Server Error,Thread Group 1-31,text,false,,2969,592,50,50,http://www.g-shop.shop/catalog/add/169,1063,0,0
+1702911829763,624,/catalog/add/11-16,500,Internal Server Error,Thread Group 1-36,text,false,,2971,591,50,50,http://www.g-shop.shop/catalog/add/11,624,0,0
+1702911829390,999,/catalog/add/169-17,500,Internal Server Error,Thread Group 1-9,text,false,,2971,592,50,50,http://www.g-shop.shop/catalog/add/169,999,0,0
+1702911829486,904,/catalog/add/11-16,500,Internal Server Error,Thread Group 1-34,text,false,,2969,591,50,50,http://www.g-shop.shop/catalog/add/11,903,0,0
+1702911829396,1032,/catalog/add/11-16,500,Internal Server Error,Thread Group 1-37,text,false,,2969,591,50,50,http://www.g-shop.shop/catalog/add/11,1032,0,0
+1702911829417,1032,/catalog/add/11-16,500,Internal Server Error,Thread Group 1-38,text,false,,2969,591,50,50,http://www.g-shop.shop/catalog/add/11,1032,0,0
+1702911829477,999,/catalog/add/169-17,500,Internal Server Error,Thread Group 1-26,text,false,,2971,592,50,50,http://www.g-shop.shop/catalog/add/169,999,0,0
+1702911829506,1041,/catalog/add/169-17,500,Internal Server Error,Thread Group 1-30,text,false,,2973,592,50,50,http://www.g-shop.shop/catalog/add/169,1040,0,0
+1702911829676,883,/catalog/add/11-16,500,Internal Server Error,Thread Group 1-49,text,false,,2969,591,50,50,http://www.g-shop.shop/catalog/add/11,883,0,0
+1702911829731,1062,/catalog/add/11-16,500,Internal Server Error,Thread Group 1-46,text,false,,2971,591,50,50,http://www.g-shop.shop/catalog/add/11,1062,0,0
+1702911829938,931,/catalog/add/11-16,500,Internal Server Error,Thread Group 1-43,text,false,,2973,591,50,50,http://www.g-shop.shop/catalog/add/11,931,0,0
+1702911829815,1061,/catalog/add/11-16,500,Internal Server Error,Thread Group 1-42,text,false,,2973,591,50,50,http://www.g-shop.shop/catalog/add/11,1061,0,0
+1702911830026,867,/catalog/add/11-16,500,Internal Server Error,Thread Group 1-48,text,false,,2971,591,50,50,http://www.g-shop.shop/catalog/add/11,867,0,0
+1702911830026,877,/catalog/add/11-16,500,Internal Server Error,Thread Group 1-41,text,false,,2971,591,50,50,http://www.g-shop.shop/catalog/add/11,877,0,0
+1702911829993,935,/catalog/add/169-17,500,Internal Server Error,Thread Group 1-47,text,false,,2969,592,50,50,http://www.g-shop.shop/catalog/add/169,935,0,0
+1702911829862,1101,/catalog/add/11-16,500,Internal Server Error,Thread Group 1-45,text,false,,2969,591,50,50,http://www.g-shop.shop/catalog/add/11,1101,0,0
+1702911830156,838,/catalog/add/11-16,500,Internal Server Error,Thread Group 1-39,text,false,,2973,591,50,50,http://www.g-shop.shop/catalog/add/11,838,0,0
+1702911830134,902,/catalog/add/11-16,500,Internal Server Error,Thread Group 1-44,text,false,,2969,591,50,50,http://www.g-shop.shop/catalog/add/11,902,0,0
+1702911830113,974,/catalog/add/169-17,500,Internal Server Error,Thread Group 1-27,text,false,,2969,592,50,50,http://www.g-shop.shop/catalog/add/169,974,0,0
+1702911830390,737,/catalog/add/169-17,500,Internal Server Error,Thread Group 1-34,text,false,,2977,592,50,50,http://www.g-shop.shop/catalog/add/169,737,0,0
+1702911830450,755,/catalog/add/169-17,500,Internal Server Error,Thread Group 1-38,text,false,,2973,592,50,50,http://www.g-shop.shop/catalog/add/169,755,0,0
+1702911830193,1050,/catalog/add/169-17,500,Internal Server Error,Thread Group 1-35,text,false,,2977,592,50,50,http://www.g-shop.shop/catalog/add/169,1050,0,0
+1702911830429,855,/catalog/add/169-17,500,Internal Server Error,Thread Group 1-37,text,false,,2973,592,50,50,http://www.g-shop.shop/catalog/add/169,855,0,0
+1702911830276,1040,/catalog/add/169-17,500,Internal Server Error,Thread Group 1-40,text,false,,2973,592,50,50,http://www.g-shop.shop/catalog/add/169,1040,0,0
+1702911830361,990,/catalog/add/169-17,500,Internal Server Error,Thread Group 1-50,text,false,,2971,592,50,50,http://www.g-shop.shop/catalog/add/169,990,0,0
+1702911830331,1038,/catalog/add/169-17,500,Internal Server Error,Thread Group 1-33,text,false,,2977,592,50,50,http://www.g-shop.shop/catalog/add/169,1038,0,0
+1702911830387,1040,/catalog/add/169-17,500,Internal Server Error,Thread Group 1-36,text,false,,2973,592,50,50,http://www.g-shop.shop/catalog/add/169,1040,0,0
+1702911830559,932,/catalog/add/169-17,500,Internal Server Error,Thread Group 1-49,text,false,,2969,592,50,50,http://www.g-shop.shop/catalog/add/169,931,0,0
+1702911829216,2379,/catalog/termometry-18,200,OK,Thread Group 1-4,text,true,,14588,438,50,50,http://www.g-shop.shop/catalog/termometry,2378,0,0
+1702911830963,632,/catalog/add/169-17,500,Internal Server Error,Thread Group 1-45,text,false,,2971,592,50,50,http://www.g-shop.shop/catalog/add/169,632,0,0
+1702911830904,693,/catalog/add/169-17,500,Internal Server Error,Thread Group 1-41,text,false,,2969,592,50,50,http://www.g-shop.shop/catalog/add/169,693,0,0
+1702911831595,53,/canonical.html-19,200,OK,Thread Group 1-4,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,53,0,0
+1702911831648,53,/success.txt-21,200,OK,Thread Group 1-4,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,53,0,0
+1702911829043,2662,/catalog/termometry-18,200,OK,Thread Group 1-6,text,true,,14596,438,50,50,http://www.g-shop.shop/catalog/termometry,2662,0,0
+1702911831701,52,/success.txt-20,200,OK,Thread Group 1-4,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,52,0,0
+1702911831705,59,/canonical.html-19,200,OK,Thread Group 1-6,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,59,0,0
+1702911831765,51,/success.txt-21,200,OK,Thread Group 1-6,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,51,0,0
+1702911829347,2477,/catalog/termometry-18,200,OK,Thread Group 1-29,text,true,,14594,438,50,50,http://www.g-shop.shop/catalog/termometry,2477,0,0
+1702911829462,2366,/catalog/termometry-18,200,OK,Thread Group 1-12,text,true,,14592,438,50,50,http://www.g-shop.shop/catalog/termometry,2365,0,0
+1702911829322,2507,/catalog/termometry-18,200,OK,Thread Group 1-14,text,true,,14602,438,50,50,http://www.g-shop.shop/catalog/termometry,2498,0,0
+1702911831825,42,/canonical.html-19,200,OK,Thread Group 1-29,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,42,0,0
+1702911831816,51,/success.txt-20,200,OK,Thread Group 1-6,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,51,0,0
+1702911830876,996,/catalog/add/169-17,500,Internal Server Error,Thread Group 1-42,text,false,,2977,592,50,50,http://www.g-shop.shop/catalog/add/169,996,0,0
+1702911831829,45,/canonical.html-19,200,OK,Thread Group 1-14,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,45,0,0
+1702911831828,47,/canonical.html-19,200,OK,Thread Group 1-12,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,47,0,0
+1702911829082,2819,/catalog/termometry-18,200,OK,Thread Group 1-7,text,true,,14597,438,50,50,http://www.g-shop.shop/catalog/termometry,2819,0,0
+1702911831867,42,/success.txt-21,200,OK,Thread Group 1-29,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,42,0,0
+1702911831874,45,/success.txt-21,200,OK,Thread Group 1-14,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,45,0,0
+1702911831875,48,/success.txt-21,200,OK,Thread Group 1-12,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,48,0,0
+1702911828989,2937,/catalog/termometry-18,200,OK,Thread Group 1-1,text,true,,14597,438,50,50,http://www.g-shop.shop/catalog/termometry,2936,0,0
+1702911830994,945,/catalog/add/169-17,500,Internal Server Error,Thread Group 1-39,text,false,,2969,592,50,50,http://www.g-shop.shop/catalog/add/169,944,0,0
+1702911831909,43,/success.txt-20,200,OK,Thread Group 1-29,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,43,0,0
+1702911830793,1166,/catalog/add/169-17,500,Internal Server Error,Thread Group 1-46,text,false,,2969,592,50,50,http://www.g-shop.shop/catalog/add/169,1166,0,0
+1702911831919,45,/success.txt-20,200,OK,Thread Group 1-14,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,45,0,0
+1702911831901,70,/canonical.html-19,200,OK,Thread Group 1-7,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,70,0,0
+1702911831923,48,/success.txt-20,200,OK,Thread Group 1-12,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,48,0,0
+1702911831926,50,/canonical.html-19,200,OK,Thread Group 1-1,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,50,0,0
+1702911830869,1139,/catalog/add/169-17,500,Internal Server Error,Thread Group 1-43,text,false,,2971,592,50,50,http://www.g-shop.shop/catalog/add/169,1139,0,0
+1702911831976,45,/success.txt-21,200,OK,Thread Group 1-1,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,45,0,0
+1702911831971,55,/success.txt-21,200,OK,Thread Group 1-7,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,55,0,0
+1702911830893,1172,/catalog/add/169-17,500,Internal Server Error,Thread Group 1-48,text,false,,2971,592,50,50,http://www.g-shop.shop/catalog/add/169,1172,0,0
+1702911832021,45,/success.txt-20,200,OK,Thread Group 1-1,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,45,0,0
+1702911832027,55,/success.txt-20,200,OK,Thread Group 1-7,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,54,0,0
+1702911829486,2627,/catalog/termometry-18,200,OK,Thread Group 1-19,text,true,,14602,438,50,50,http://www.g-shop.shop/catalog/termometry,2619,0,0
+1702911831036,1099,/catalog/add/169-17,500,Internal Server Error,Thread Group 1-44,text,false,,2971,592,50,50,http://www.g-shop.shop/catalog/add/169,1098,0,0
+1702911829210,2946,/catalog/termometry-18,200,OK,Thread Group 1-5,text,true,,14593,438,50,50,http://www.g-shop.shop/catalog/termometry,2946,0,0
+1702911832113,47,/canonical.html-19,200,OK,Thread Group 1-19,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,47,0,0
+1702911829031,3133,/catalog/termometry-18,200,OK,Thread Group 1-10,text,true,,14596,438,50,50,http://www.g-shop.shop/catalog/termometry,3133,0,0
+1702911829390,2791,/catalog/termometry-18,200,OK,Thread Group 1-15,text,true,,14597,438,50,50,http://www.g-shop.shop/catalog/termometry,2790,0,0
+1702911829588,2610,/catalog/termometry-18,200,OK,Thread Group 1-8,text,true,,14594,438,50,50,http://www.g-shop.shop/catalog/termometry,2608,0,0
+1702911832160,51,/success.txt-21,200,OK,Thread Group 1-19,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,51,0,0
+1702911832156,55,/canonical.html-19,200,OK,Thread Group 1-5,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,55,0,0
+1702911830011,2200,/catalog/termometry-18,200,OK,Thread Group 1-23,text,true,,14598,438,50,50,http://www.g-shop.shop/catalog/termometry,2196,0,0
+1702911832165,55,/canonical.html-19,200,OK,Thread Group 1-10,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,55,0,0
+1702911832181,53,/canonical.html-19,200,OK,Thread Group 1-15,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,53,0,0
+1702911830476,1771,/catalog/termometry-18,200,OK,Thread Group 1-26,text,true,,14588,438,50,50,http://www.g-shop.shop/catalog/termometry,1769,0,0
+1702911832211,47,/success.txt-20,200,OK,Thread Group 1-19,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,47,0,0
+1702911832211,49,/success.txt-21,200,OK,Thread Group 1-5,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,49,0,0
+1702911832198,63,/canonical.html-19,200,OK,Thread Group 1-8,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,63,0,0
+1702911832211,52,/canonical.html-19,200,OK,Thread Group 1-23,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,52,0,0
+1702911832221,44,/success.txt-21,200,OK,Thread Group 1-10,text,true,,215,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,44,0,0
+1702911829709,2559,/catalog/termometry-18,200,OK,Thread Group 1-3,text,true,,14601,438,50,50,http://www.g-shop.shop/catalog/termometry,2551,0,0
+1702911832234,53,/success.txt-21,200,OK,Thread Group 1-15,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,53,0,0
+1702911829765,2539,/catalog/termometry-18,200,OK,Thread Group 1-16,text,true,,14596,438,50,50,http://www.g-shop.shop/catalog/termometry,2539,0,0
+1702911832247,57,/canonical.html-19,200,OK,Thread Group 1-26,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,57,0,0
+1702911832260,49,/success.txt-20,200,OK,Thread Group 1-5,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,49,0,0
+1702911832266,45,/success.txt-20,200,OK,Thread Group 1-10,text,true,,215,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,45,0,0
+1702911832263,52,/success.txt-21,200,OK,Thread Group 1-23,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,52,0,0
+1702911832261,54,/success.txt-21,200,OK,Thread Group 1-8,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,54,0,0
+1702911829764,2562,/catalog/termometry-18,200,OK,Thread Group 1-21,text,true,,14589,438,50,50,http://www.g-shop.shop/catalog/termometry,2561,0,0
+1702911832268,70,/canonical.html-19,200,OK,Thread Group 1-3,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,70,0,0
+1702911832288,53,/success.txt-20,200,OK,Thread Group 1-15,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,53,0,0
+1702911829524,2827,/catalog/termometry-18,200,OK,Thread Group 1-22,text,true,,14591,438,50,50,http://www.g-shop.shop/catalog/termometry,2827,0,0
+1702911832304,58,/success.txt-21,200,OK,Thread Group 1-26,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,58,0,0
+1702911832315,52,/success.txt-20,200,OK,Thread Group 1-23,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,52,0,0
+1702911832304,63,/canonical.html-19,200,OK,Thread Group 1-16,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,63,0,0
+1702911832315,55,/success.txt-20,200,OK,Thread Group 1-8,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,55,0,0
+1702911832326,56,/canonical.html-19,200,OK,Thread Group 1-21,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,56,0,0
+1702911832339,54,/success.txt-21,200,OK,Thread Group 1-3,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,54,0,0
+1702911829641,2760,/catalog/termometry-18,200,OK,Thread Group 1-2,text,true,,14595,438,50,50,http://www.g-shop.shop/catalog/termometry,2759,0,0
+1702911832351,51,/canonical.html-19,200,OK,Thread Group 1-22,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,51,0,0
+1702911832362,57,/success.txt-20,200,OK,Thread Group 1-26,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,57,0,0
+1702911832367,53,/success.txt-21,200,OK,Thread Group 1-16,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,53,0,0
+1702911832383,52,/success.txt-21,200,OK,Thread Group 1-21,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,52,0,0
+1702911832393,54,/success.txt-20,200,OK,Thread Group 1-3,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,54,0,0
+1702911832401,52,/canonical.html-19,200,OK,Thread Group 1-2,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,52,0,0
+1702911832402,51,/success.txt-21,200,OK,Thread Group 1-22,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,51,0,0
+1702911829505,2961,/catalog/termometry-18,200,OK,Thread Group 1-13,text,true,,14600,438,50,50,http://www.g-shop.shop/catalog/termometry,2960,0,0
+1702911832421,52,/success.txt-20,200,OK,Thread Group 1-16,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,52,0,0
+1702911829740,2733,/catalog/termometry-18,200,OK,Thread Group 1-20,text,true,,14586,438,50,50,http://www.g-shop.shop/catalog/termometry,2733,0,0
+1702911830389,2093,/catalog/termometry-18,200,OK,Thread Group 1-9,text,true,,14597,438,50,50,http://www.g-shop.shop/catalog/termometry,2092,0,0
+1702911832436,61,/success.txt-20,200,OK,Thread Group 1-21,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,61,0,0
+1702911832454,46,/success.txt-21,200,OK,Thread Group 1-2,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,46,0,0
+1702911832454,50,/success.txt-20,200,OK,Thread Group 1-22,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,50,0,0
+1702911832466,48,/canonical.html-19,200,OK,Thread Group 1-13,text,true,,297,324,50,50,http://detectportal.firefox.com/canonical.html,48,0,0
+1702911832482,52,/canonical.html-19,200,OK,Thread Group 1-9,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,52,0,0
+1702911832473,61,/canonical.html-19,200,OK,Thread Group 1-20,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,61,0,0
+1702911831754,786,/catalog/add/914-22,500,Internal Server Error,Thread Group 1-4,text,false,,2969,594,50,50,http://www.g-shop.shop/catalog/add/914,786,0,0
+1702911832500,46,/success.txt-20,200,OK,Thread Group 1-2,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,46,0,0
+1702911832515,44,/success.txt-21,200,OK,Thread Group 1-13,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,44,0,0
+1702911832535,48,/success.txt-21,200,OK,Thread Group 1-9,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,48,0,0
+1702911832535,56,/success.txt-21,200,OK,Thread Group 1-20,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,56,0,0
+1702911832559,44,/success.txt-20,200,OK,Thread Group 1-13,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,44,0,0
+1702911832584,48,/success.txt-20,200,OK,Thread Group 1-9,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,48,0,0
+1702911832591,57,/success.txt-20,200,OK,Thread Group 1-20,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,57,0,0
+1702911829713,2971,/catalog/termometry-18,200,OK,Thread Group 1-11,text,true,,14598,438,50,50,http://www.g-shop.shop/catalog/termometry,2971,0,0
+1702911832684,47,/canonical.html-19,200,OK,Thread Group 1-11,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,47,0,0
+1702911830011,2729,/catalog/termometry-18,200,OK,Thread Group 1-17,text,true,,14591,438,50,50,http://www.g-shop.shop/catalog/termometry,2729,0,0
+1702911831127,1629,/catalog/termometry-18,200,OK,Thread Group 1-34,text,true,,14588,438,50,50,http://www.g-shop.shop/catalog/termometry,1628,0,0
+1702911831971,804,/catalog/add/914-22,500,Internal Server Error,Thread Group 1-12,text,false,,2971,594,50,50,http://www.g-shop.shop/catalog/add/914,803,0,0
+1702911832731,45,/success.txt-21,200,OK,Thread Group 1-11,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,45,0,0
+1702911829685,3114,/catalog/termometry-18,200,OK,Thread Group 1-25,text,true,,14596,438,50,50,http://www.g-shop.shop/catalog/termometry,3113,0,0
+1702911832740,62,/canonical.html-19,200,OK,Thread Group 1-17,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,62,0,0
+1702911832756,51,/canonical.html-19,200,OK,Thread Group 1-34,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,51,0,0
+1702911829810,3010,/catalog/termometry-18,200,OK,Thread Group 1-24,text,true,,14596,438,50,50,http://www.g-shop.shop/catalog/termometry,3010,0,0
+1702911832776,49,/success.txt-20,200,OK,Thread Group 1-11,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,49,0,0
+1702911832799,53,/canonical.html-19,200,OK,Thread Group 1-25,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,53,0,0
+1702911832802,54,/success.txt-21,200,OK,Thread Group 1-17,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,54,0,0
+1702911832807,50,/success.txt-21,200,OK,Thread Group 1-34,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,50,0,0
+1702911830059,2811,/catalog/termometry-18,200,OK,Thread Group 1-28,text,true,,14594,438,50,50,http://www.g-shop.shop/catalog/termometry,2810,0,0
+1702911832820,56,/canonical.html-19,200,OK,Thread Group 1-24,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,56,0,0
+1702911832066,818,/catalog/add/914-22,500,Internal Server Error,Thread Group 1-1,text,false,,2969,594,50,50,http://www.g-shop.shop/catalog/add/914,818,0,0
+1702911831868,1017,/catalog/add/914-22,500,Internal Server Error,Thread Group 1-6,text,false,,2977,594,50,50,http://www.g-shop.shop/catalog/add/914,1017,0,0
+1702911831964,927,/catalog/add/914-22,500,Internal Server Error,Thread Group 1-14,text,false,,2977,594,50,50,http://www.g-shop.shop/catalog/add/914,926,0,0
+1702911831952,945,/catalog/add/914-22,500,Internal Server Error,Thread Group 1-29,text,false,,2971,594,50,50,http://www.g-shop.shop/catalog/add/914,945,0,0
+1702911832853,53,/success.txt-21,200,OK,Thread Group 1-25,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,53,0,0
+1702911832858,50,/success.txt-20,200,OK,Thread Group 1-34,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,50,0,0
+1702911832856,54,/success.txt-20,200,OK,Thread Group 1-17,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,54,0,0
+1702911832870,45,/canonical.html-19,200,OK,Thread Group 1-28,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,45,0,0
+1702911830134,2784,/catalog/termometry-18,200,OK,Thread Group 1-32,text,true,,14591,438,50,50,http://www.g-shop.shop/catalog/termometry,2783,0,0
+1702911832309,618,/catalog/add/914-22,500,Internal Server Error,Thread Group 1-5,text,false,,2971,594,50,50,http://www.g-shop.shop/catalog/add/914,618,0,0
+1702911832876,51,/success.txt-21,200,OK,Thread Group 1-24,text,true,,215,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,51,0,0
+1702911832906,53,/success.txt-20,200,OK,Thread Group 1-25,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,53,0,0
+1702911832915,46,/success.txt-21,200,OK,Thread Group 1-28,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,46,0,0
+1702911832918,53,/canonical.html-19,200,OK,Thread Group 1-32,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,53,0,0
+1702911832927,53,/success.txt-20,200,OK,Thread Group 1-24,text,true,,215,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,53,0,0
+1702911832961,45,/success.txt-20,200,OK,Thread Group 1-28,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,45,0,0
+1702911832972,53,/success.txt-21,200,OK,Thread Group 1-32,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,53,0,0
+1702911832311,716,/catalog/add/914-22,500,Internal Server Error,Thread Group 1-10,text,false,,2971,594,50,50,http://www.g-shop.shop/catalog/add/914,716,0,0
+1702911832082,954,/catalog/add/914-22,500,Internal Server Error,Thread Group 1-7,text,false,,2971,594,50,50,http://www.g-shop.shop/catalog/add/914,954,0,0
+1702911829917,3130,/catalog/termometry-18,200,OK,Thread Group 1-18,text,true,,14593,438,50,50,http://www.g-shop.shop/catalog/termometry,3130,0,0
+1702911833026,54,/success.txt-20,200,OK,Thread Group 1-32,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,54,0,0
+1702911833048,52,/canonical.html-19,200,OK,Thread Group 1-18,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,52,0,0
+1702911832473,640,/catalog/add/914-22,500,Internal Server Error,Thread Group 1-16,text,false,,2969,594,50,50,http://www.g-shop.shop/catalog/add/914,640,0,0
+1702911830371,2749,/catalog/termometry-18,200,OK,Thread Group 1-31,text,true,,14600,438,50,50,http://www.g-shop.shop/catalog/termometry,2749,0,0
+1702911832341,804,/catalog/add/914-22,500,Internal Server Error,Thread Group 1-15,text,false,,2973,594,50,50,http://www.g-shop.shop/catalog/add/914,804,0,0
+1702911833100,46,/success.txt-21,200,OK,Thread Group 1-18,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,46,0,0
+1702911830547,2603,/catalog/termometry-18,200,OK,Thread Group 1-30,text,true,,14592,438,50,50,http://www.g-shop.shop/catalog/termometry,2602,0,0
+1702911833120,57,/canonical.html-19,200,OK,Thread Group 1-31,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,57,0,0
+1702911833146,44,/success.txt-20,200,OK,Thread Group 1-18,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,44,0,0
+1702911832258,932,/catalog/add/914-22,500,Internal Server Error,Thread Group 1-19,text,false,,2969,594,50,50,http://www.g-shop.shop/catalog/add/914,932,0,0
+1702911833150,49,/canonical.html-19,200,OK,Thread Group 1-30,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,49,0,0
+1702911832420,780,/catalog/add/914-22,500,Internal Server Error,Thread Group 1-26,text,false,,2973,594,50,50,http://www.g-shop.shop/catalog/add/914,780,0,0
+1702911832367,833,/catalog/add/914-22,500,Internal Server Error,Thread Group 1-23,text,false,,2975,594,50,50,http://www.g-shop.shop/catalog/add/914,833,0,0
+1702911833177,57,/success.txt-21,200,OK,Thread Group 1-31,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,57,0,0
+1702911833200,49,/success.txt-21,200,OK,Thread Group 1-30,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,49,0,0
+1702911832497,762,/catalog/add/914-22,500,Internal Server Error,Thread Group 1-21,text,false,,2969,594,50,50,http://www.g-shop.shop/catalog/add/914,762,0,0
+1702911832370,910,/catalog/add/914-22,500,Internal Server Error,Thread Group 1-8,text,false,,2975,594,50,50,http://www.g-shop.shop/catalog/add/914,910,0,0
+1702911833234,57,/success.txt-20,200,OK,Thread Group 1-31,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,57,0,0
+1702911831087,2210,/catalog/termometry-18,200,OK,Thread Group 1-27,text,true,,14595,438,50,50,http://www.g-shop.shop/catalog/termometry,2209,0,0
+1702911833249,49,/success.txt-20,200,OK,Thread Group 1-30,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,49,0,0
+1702911832603,711,/catalog/add/914-22,500,Internal Server Error,Thread Group 1-13,text,false,,2973,594,50,50,http://www.g-shop.shop/catalog/add/914,711,0,0
+1702911833297,60,/canonical.html-19,200,OK,Thread Group 1-27,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,60,0,0
+1702911832447,946,/catalog/add/914-22,500,Internal Server Error,Thread Group 1-3,text,false,,2971,594,50,50,http://www.g-shop.shop/catalog/add/914,946,0,0
+1702911832546,868,/catalog/add/914-22,500,Internal Server Error,Thread Group 1-2,text,false,,2977,594,50,50,http://www.g-shop.shop/catalog/add/914,868,0,0
+1702911832504,913,/catalog/add/914-22,500,Internal Server Error,Thread Group 1-22,text,false,,2975,594,50,50,http://www.g-shop.shop/catalog/add/914,913,0,0
+1702911833358,60,/success.txt-21,200,OK,Thread Group 1-27,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,60,0,0
+1702911833418,62,/success.txt-20,200,OK,Thread Group 1-27,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,62,0,0
+1702911833006,542,/catalog/add/914-22,500,Internal Server Error,Thread Group 1-28,text,false,,2969,594,50,50,http://www.g-shop.shop/catalog/add/914,542,0,0
+1702911830928,2638,/catalog/termometry-18,200,OK,Thread Group 1-47,text,true,,14598,438,50,50,http://www.g-shop.shop/catalog/termometry,2637,0,0
+1702911832633,934,/catalog/add/914-22,500,Internal Server Error,Thread Group 1-9,text,false,,2969,594,50,50,http://www.g-shop.shop/catalog/add/914,934,0,0
+1702911831243,2338,/catalog/termometry-18,200,OK,Thread Group 1-35,text,true,,14595,438,50,50,http://www.g-shop.shop/catalog/termometry,2338,0,0
+1702911833566,43,/canonical.html-19,200,OK,Thread Group 1-47,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,43,0,0
+1702911832908,714,/catalog/add/914-22,500,Internal Server Error,Thread Group 1-34,text,false,,2971,594,50,50,http://www.g-shop.shop/catalog/add/914,714,0,0
+1702911832960,669,/catalog/add/914-22,500,Internal Server Error,Thread Group 1-25,text,false,,2969,594,50,50,http://www.g-shop.shop/catalog/add/914,669,0,0
+1702911833582,48,/canonical.html-19,200,OK,Thread Group 1-35,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,48,0,0
+1702911832648,990,/catalog/add/914-22,500,Internal Server Error,Thread Group 1-20,text,false,,2977,594,50,50,http://www.g-shop.shop/catalog/add/914,990,0,0
+1702911833609,44,/success.txt-21,200,OK,Thread Group 1-47,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,44,0,0
+1702911832825,830,/catalog/add/914-22,500,Internal Server Error,Thread Group 1-11,text,false,,2971,594,50,50,http://www.g-shop.shop/catalog/add/914,830,0,0
+1702911833630,48,/success.txt-21,200,OK,Thread Group 1-35,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,48,0,0
+1702911833653,44,/success.txt-20,200,OK,Thread Group 1-47,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,44,0,0
+1702911833679,48,/success.txt-20,200,OK,Thread Group 1-35,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,48,0,0
+1702911832980,834,/catalog/add/914-22,500,Internal Server Error,Thread Group 1-24,text,false,,2973,594,50,50,http://www.g-shop.shop/catalog/add/914,834,0,0
+1702911831316,2617,/catalog/termometry-18,200,OK,Thread Group 1-40,text,true,,14590,438,50,50,http://www.g-shop.shop/catalog/termometry,2617,0,0
+1702911831872,2099,/catalog/termometry-18,200,OK,Thread Group 1-42,text,true,,14595,438,50,50,http://www.g-shop.shop/catalog/termometry,2098,0,0
+1702911832911,1073,/catalog/add/914-22,500,Internal Server Error,Thread Group 1-17,text,false,,2973,594,50,50,http://www.g-shop.shop/catalog/add/914,1073,0,0
+1702911833934,51,/canonical.html-19,200,OK,Thread Group 1-40,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,51,0,0
+1702911833971,45,/canonical.html-19,200,OK,Thread Group 1-42,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,45,0,0
+1702911831351,2683,/catalog/termometry-18,200,OK,Thread Group 1-50,text,true,,14590,438,50,50,http://www.g-shop.shop/catalog/termometry,2682,0,0
+1702911833985,52,/success.txt-21,200,OK,Thread Group 1-40,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,52,0,0
+1702911831370,2668,/catalog/termometry-18,200,OK,Thread Group 1-33,text,true,,14594,438,50,50,http://www.g-shop.shop/catalog/termometry,2667,0,0
+1702911833291,747,/catalog/add/914-22,500,Internal Server Error,Thread Group 1-31,text,false,,2971,594,50,50,http://www.g-shop.shop/catalog/add/914,747,0,0
+1702911833080,966,/catalog/add/914-22,500,Internal Server Error,Thread Group 1-32,text,false,,2969,594,50,50,http://www.g-shop.shop/catalog/add/914,966,0,0
+1702911831284,2768,/catalog/termometry-18,200,OK,Thread Group 1-37,text,true,,14590,438,50,50,http://www.g-shop.shop/catalog/termometry,2768,0,0
+1702911834016,45,/success.txt-21,200,OK,Thread Group 1-42,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,45,0,0
+1702911833191,879,/catalog/add/914-22,500,Internal Server Error,Thread Group 1-18,text,false,,2969,594,50,50,http://www.g-shop.shop/catalog/add/914,879,0,0
+1702911834034,48,/canonical.html-19,200,OK,Thread Group 1-50,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,48,0,0
+1702911831959,2125,/catalog/termometry-18,200,OK,Thread Group 1-46,text,true,,14588,438,50,50,http://www.g-shop.shop/catalog/termometry,2125,0,0
+1702911834037,51,/success.txt-20,200,OK,Thread Group 1-40,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,51,0,0
+1702911834038,58,/canonical.html-19,200,OK,Thread Group 1-33,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,58,0,0
+1702911834061,44,/success.txt-20,200,OK,Thread Group 1-42,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,44,0,0
+1702911834052,54,/canonical.html-19,200,OK,Thread Group 1-37,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,54,0,0
+1702911831205,2925,/catalog/termometry-18,200,OK,Thread Group 1-38,text,true,,14592,438,50,50,http://www.g-shop.shop/catalog/termometry,2923,0,0
+1702911834082,49,/success.txt-21,200,OK,Thread Group 1-50,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,49,0,0
+1702911834084,56,/canonical.html-19,200,OK,Thread Group 1-46,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,56,0,0
+1702911834096,58,/success.txt-21,200,OK,Thread Group 1-33,text,true,,215,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,58,0,0
+1702911833298,857,/catalog/add/914-22,500,Internal Server Error,Thread Group 1-30,text,false,,2971,594,50,50,http://www.g-shop.shop/catalog/add/914,857,0,0
+1702911834106,54,/success.txt-21,200,OK,Thread Group 1-37,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,54,0,0
+1702911832065,2096,/catalog/termometry-18,200,OK,Thread Group 1-48,text,true,,14601,438,50,50,http://www.g-shop.shop/catalog/termometry,2087,0,0
+1702911831598,2572,/catalog/termometry-18,200,OK,Thread Group 1-41,text,true,,14588,438,50,50,http://www.g-shop.shop/catalog/termometry,2571,0,0
+1702911834131,48,/success.txt-20,200,OK,Thread Group 1-50,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,48,0,0
+1702911834130,50,/canonical.html-19,200,OK,Thread Group 1-38,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,50,0,0
+1702911834140,58,/success.txt-21,200,OK,Thread Group 1-46,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,58,0,0
+1702911834161,45,/canonical.html-19,200,OK,Thread Group 1-48,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,45,0,0
+1702911834155,58,/success.txt-20,200,OK,Thread Group 1-33,text,true,,215,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,58,0,0
+1702911834160,55,/success.txt-20,200,OK,Thread Group 1-37,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,55,0,0
+1702911834170,62,/canonical.html-19,200,OK,Thread Group 1-41,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,62,0,0
+1702911834180,52,/success.txt-21,200,OK,Thread Group 1-38,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,52,0,0
+1702911831491,2744,/catalog/termometry-18,200,OK,Thread Group 1-49,text,true,,14596,438,50,50,http://www.g-shop.shop/catalog/termometry,2744,0,0
+1702911832008,2232,/catalog/termometry-18,200,OK,Thread Group 1-43,text,true,,14593,438,50,50,http://www.g-shop.shop/catalog/termometry,2231,0,0
+1702911834198,60,/success.txt-20,200,OK,Thread Group 1-46,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,60,0,0
+1702911834206,52,/success.txt-21,200,OK,Thread Group 1-48,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,52,0,0
+1702911834232,51,/success.txt-20,200,OK,Thread Group 1-38,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,51,0,0
+1702911834236,47,/canonical.html-19,200,OK,Thread Group 1-49,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,47,0,0
+1702911834232,59,/success.txt-21,200,OK,Thread Group 1-41,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,59,0,0
+1702911834240,55,/canonical.html-19,200,OK,Thread Group 1-43,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,55,0,0
+1702911834258,46,/success.txt-20,200,OK,Thread Group 1-48,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,46,0,0
+1702911834283,47,/success.txt-21,200,OK,Thread Group 1-49,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,47,0,0
+1702911834291,59,/success.txt-20,200,OK,Thread Group 1-41,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,59,0,0
+1702911834295,55,/success.txt-21,200,OK,Thread Group 1-43,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,55,0,0
+1702911834330,48,/success.txt-20,200,OK,Thread Group 1-49,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,48,0,0
+1702911834350,55,/success.txt-20,200,OK,Thread Group 1-43,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,55,0,0
+1702911833481,952,/catalog/add/914-22,500,Internal Server Error,Thread Group 1-27,text,false,,2971,594,50,50,http://www.g-shop.shop/catalog/add/914,951,0,0
+1702911831427,3044,/catalog/termometry-18,200,OK,Thread Group 1-36,text,true,,14602,438,50,50,http://www.g-shop.shop/catalog/termometry,3036,0,0
+1702911834471,54,/canonical.html-19,200,OK,Thread Group 1-36,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,54,0,0
+1702911833727,801,/catalog/add/914-22,500,Internal Server Error,Thread Group 1-35,text,false,,2975,594,50,50,http://www.g-shop.shop/catalog/add/914,801,0,0
+1702911831939,2598,/catalog/termometry-18,200,OK,Thread Group 1-39,text,true,,14600,438,50,50,http://www.g-shop.shop/catalog/termometry,2597,0,0
+1702911834525,53,/success.txt-21,200,OK,Thread Group 1-36,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,53,0,0
+1702911834537,52,/canonical.html-19,200,OK,Thread Group 1-39,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,52,0,0
+1702911832136,2457,/catalog/termometry-18,200,OK,Thread Group 1-44,text,true,,14578,438,50,50,http://www.g-shop.shop/catalog/termometry,2457,0,0
+1702911833697,904,/catalog/add/914-22,500,Internal Server Error,Thread Group 1-47,text,false,,2971,594,50,50,http://www.g-shop.shop/catalog/add/914,903,0,0
+1702911834578,53,/success.txt-20,200,OK,Thread Group 1-36,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,53,0,0
+1702911834593,46,/canonical.html-19,200,OK,Thread Group 1-44,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,46,0,0
+1702911834589,52,/success.txt-21,200,OK,Thread Group 1-39,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,52,0,0
+1702911834215,453,/catalog/add/914-22,500,Internal Server Error,Thread Group 1-37,text,false,,2969,594,50,50,http://www.g-shop.shop/catalog/add/914,453,0,0
+1702911832775,1908,/cart-23,200,OK,Thread Group 1-12,text,true,,7533,426,50,50,http://www.g-shop.shop/cart,1908,0,0
+1702911834639,45,/success.txt-21,200,OK,Thread Group 1-44,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,45,0,0
+1702911834641,52,/success.txt-20,200,OK,Thread Group 1-39,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,52,0,0
+1702911834684,45,/success.txt-20,200,OK,Thread Group 1-44,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,45,0,0
+1702911834683,48,/canonical.html-24,200,OK,Thread Group 1-12,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,48,0,0
+1702911834731,48,/success.txt-25,200,OK,Thread Group 1-12,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,48,0,0
+1702911832885,1933,/cart-23,200,OK,Thread Group 1-1,text,true,,7538,426,50,50,http://www.g-shop.shop/cart,1933,0,0
+1702911834779,47,/success.txt-26,200,OK,Thread Group 1-12,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,47,0,0
+1702911832927,1915,/cart-23,200,OK,Thread Group 1-5,text,true,,7542,426,50,50,http://www.g-shop.shop/cart,1914,0,0
+1702911834818,45,/canonical.html-24,200,OK,Thread Group 1-1,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,45,0,0
+1702911834179,687,/catalog/add/914-22,500,Internal Server Error,Thread Group 1-50,text,false,,2969,594,50,50,http://www.g-shop.shop/catalog/add/914,687,0,0
+1702911834842,48,/canonical.html-24,200,OK,Thread Group 1-5,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,48,0,0
+1702911834863,45,/success.txt-25,200,OK,Thread Group 1-1,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,45,0,0
+1702911833027,1895,/cart-23,200,OK,Thread Group 1-10,text,true,,7534,426,50,50,http://www.g-shop.shop/cart,1895,0,0
+1702911834890,48,/success.txt-25,200,OK,Thread Group 1-5,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,48,0,0
+1702911834908,45,/success.txt-26,200,OK,Thread Group 1-1,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,45,0,0
+1702911833200,1754,/cart-23,200,OK,Thread Group 1-23,text,true,,7538,426,50,50,http://www.g-shop.shop/cart,1754,0,0
+1702911834922,45,/canonical.html-24,200,OK,Thread Group 1-10,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,45,0,0
+1702911834378,605,/catalog/add/914-22,500,Internal Server Error,Thread Group 1-49,text,false,,2971,594,50,50,http://www.g-shop.shop/catalog/add/914,605,0,0
+1702911834938,49,/success.txt-26,200,OK,Thread Group 1-5,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,49,0,0
+1702911834954,51,/canonical.html-24,200,OK,Thread Group 1-23,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,51,0,0
+1702911834967,45,/success.txt-25,200,OK,Thread Group 1-10,text,true,,215,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,45,0,0
+1702911834088,957,/catalog/add/914-22,500,Internal Server Error,Thread Group 1-40,text,false,,2973,594,50,50,http://www.g-shop.shop/catalog/add/914,957,0,0
+1702911835005,51,/success.txt-25,200,OK,Thread Group 1-23,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,51,0,0
+1702911835012,45,/success.txt-26,200,OK,Thread Group 1-10,text,true,,215,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,45,0,0
+1702911833191,1873,/cart-23,200,OK,Thread Group 1-19,text,true,,7547,426,50,50,http://www.g-shop.shop/cart,1872,0,0
+1702911832540,2561,/cart-23,200,OK,Thread Group 1-4,text,true,,7536,426,50,50,http://www.g-shop.shop/cart,2561,0,0
+1702911835057,51,/success.txt-26,200,OK,Thread Group 1-23,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,51,0,0
+1702911835064,46,/canonical.html-24,200,OK,Thread Group 1-19,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,46,0,0
+1702911834283,832,/catalog/add/914-22,500,Internal Server Error,Thread Group 1-38,text,false,,2975,594,50,50,http://www.g-shop.shop/catalog/add/914,832,0,0
+1702911832885,2245,/cart-23,200,OK,Thread Group 1-6,text,true,,7537,426,50,50,http://www.g-shop.shop/cart,2245,0,0
+1702911835101,52,/canonical.html-24,200,OK,Thread Group 1-4,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,52,0,0
+1702911835110,46,/success.txt-25,200,OK,Thread Group 1-19,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,46,0,0
+1702911834258,924,/catalog/add/914-22,500,Internal Server Error,Thread Group 1-46,text,false,,2971,594,50,50,http://www.g-shop.shop/catalog/add/914,923,0,0
+1702911835130,52,/canonical.html-24,200,OK,Thread Group 1-6,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,52,0,0
+1702911835156,46,/success.txt-26,200,OK,Thread Group 1-19,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,46,0,0
+1702911835154,52,/success.txt-25,200,OK,Thread Group 1-4,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,52,0,0
+1702911835182,60,/success.txt-25,200,OK,Thread Group 1-6,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,60,0,0
+1702911833623,1620,/cart-23,200,OK,Thread Group 1-34,text,true,,7539,426,50,50,http://www.g-shop.shop/cart,1620,0,0
+1702911834406,845,/catalog/add/914-22,500,Internal Server Error,Thread Group 1-43,text,false,,2971,594,50,50,http://www.g-shop.shop/catalog/add/914,845,0,0
+1702911835206,53,/success.txt-26,200,OK,Thread Group 1-4,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,53,0,0
+1702911833259,2017,/cart-23,200,OK,Thread Group 1-21,text,true,,7534,426,50,50,http://www.g-shop.shop/cart,2017,0,0
+1702911835243,51,/canonical.html-24,200,OK,Thread Group 1-34,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,51,0,0
+1702911835242,52,/success.txt-26,200,OK,Thread Group 1-6,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,52,0,0
+1702911834304,1008,/catalog/add/914-22,500,Internal Server Error,Thread Group 1-48,text,false,,2973,594,50,50,http://www.g-shop.shop/catalog/add/914,1007,0,0
+1702911834350,974,/catalog/add/914-22,500,Internal Server Error,Thread Group 1-41,text,false,,2971,594,50,50,http://www.g-shop.shop/catalog/add/914,974,0,0
+1702911835276,53,/canonical.html-24,200,OK,Thread Group 1-21,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,53,0,0
+1702911833638,1697,/cart-23,200,OK,Thread Group 1-20,text,true,,7545,426,50,50,http://www.g-shop.shop/cart,1696,0,0
+1702911835294,50,/success.txt-25,200,OK,Thread Group 1-34,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,50,0,0
+1702911832891,2474,/cart-23,200,OK,Thread Group 1-14,text,true,,7543,426,50,50,http://www.g-shop.shop/cart,2474,0,0
+1702911834213,1165,/catalog/add/914-22,500,Internal Server Error,Thread Group 1-33,text,false,,2969,594,50,50,http://www.g-shop.shop/catalog/add/914,1164,0,0
+1702911835329,53,/success.txt-25,200,OK,Thread Group 1-21,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,53,0,0
+1702911835335,56,/canonical.html-24,200,OK,Thread Group 1-20,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,56,0,0
+1702911835344,50,/success.txt-26,200,OK,Thread Group 1-34,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,50,0,0
+1702911835365,45,/canonical.html-24,200,OK,Thread Group 1-14,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,45,0,0
+1702911831597,3817,/catalog/termometry-18,200,OK,Thread Group 1-45,text,true,,14604,438,50,50,http://www.g-shop.shop/catalog/termometry,3808,0,0
+1702911835382,53,/success.txt-26,200,OK,Thread Group 1-21,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,53,0,0
+1702911835391,57,/success.txt-25,200,OK,Thread Group 1-20,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,57,0,0
+1702911835410,45,/success.txt-25,200,OK,Thread Group 1-14,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,45,0,0
+1702911832897,2561,/cart-23,200,OK,Thread Group 1-29,text,true,,7539,426,50,50,http://www.g-shop.shop/cart,2561,0,0
+1702911835414,50,/canonical.html-19,200,OK,Thread Group 1-45,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,50,0,0
+1702911833567,1932,/cart-23,200,OK,Thread Group 1-9,text,true,,7532,426,50,50,http://www.g-shop.shop/cart,1932,0,0
+1702911835455,45,/success.txt-26,200,OK,Thread Group 1-14,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,45,0,0
+1702911835458,47,/canonical.html-24,200,OK,Thread Group 1-29,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,47,0,0
+1702911835448,57,/success.txt-26,200,OK,Thread Group 1-20,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,57,0,0
+1702911835465,49,/success.txt-21,200,OK,Thread Group 1-45,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,49,0,0
+1702911834729,798,/catalog/add/914-22,500,Internal Server Error,Thread Group 1-44,text,false,,2975,594,50,50,http://www.g-shop.shop/catalog/add/914,798,0,0
+1702911833113,2417,/cart-23,200,OK,Thread Group 1-16,text,true,,7545,426,50,50,http://www.g-shop.shop/cart,2416,0,0
+1702911835505,42,/success.txt-25,200,OK,Thread Group 1-29,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,42,0,0
+1702911835499,49,/canonical.html-24,200,OK,Thread Group 1-9,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,49,0,0
+1702911833036,2515,/cart-23,200,OK,Thread Group 1-7,text,true,,7536,426,50,50,http://www.g-shop.shop/cart,2515,0,0
+1702911835514,49,/success.txt-20,200,OK,Thread Group 1-45,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,49,0,0
+1702911835530,55,/canonical.html-24,200,OK,Thread Group 1-16,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,55,0,0
+1702911835547,42,/success.txt-26,200,OK,Thread Group 1-29,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,42,0,0
+1702911835548,49,/success.txt-25,200,OK,Thread Group 1-9,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,49,0,0
+1702911835551,54,/canonical.html-24,200,OK,Thread Group 1-7,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,54,0,0
+1702911834631,989,/catalog/add/914-22,500,Internal Server Error,Thread Group 1-36,text,false,,2971,594,50,50,http://www.g-shop.shop/catalog/add/914,989,0,0
+1702911833393,2234,/cart-23,200,OK,Thread Group 1-3,text,true,,7539,426,50,50,http://www.g-shop.shop/cart,2234,0,0
+1702911835585,53,/success.txt-25,200,OK,Thread Group 1-16,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,53,0,0
+1702911835597,49,/success.txt-26,200,OK,Thread Group 1-9,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,49,0,0
+1702911835606,54,/success.txt-25,200,OK,Thread Group 1-7,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,54,0,0
+1702911834693,983,/catalog/add/914-22,500,Internal Server Error,Thread Group 1-39,text,false,,2971,594,50,50,http://www.g-shop.shop/catalog/add/914,983,0,0
+1702911835627,54,/canonical.html-24,200,OK,Thread Group 1-3,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,54,0,0
+1702911835638,53,/success.txt-26,200,OK,Thread Group 1-16,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,53,0,0
+1702911833145,2552,/cart-23,200,OK,Thread Group 1-15,text,true,,7539,426,50,50,http://www.g-shop.shop/cart,2552,0,0
+1702911835660,56,/success.txt-26,200,OK,Thread Group 1-7,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,56,0,0
+1702911833417,2308,/cart-23,200,OK,Thread Group 1-22,text,true,,7544,426,50,50,http://www.g-shop.shop/cart,2308,0,0
+1702911835681,60,/success.txt-25,200,OK,Thread Group 1-3,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,60,0,0
+1702911835697,53,/canonical.html-24,200,OK,Thread Group 1-15,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,53,0,0
+1702911833280,2480,/cart-23,200,OK,Thread Group 1-8,text,true,,7537,426,50,50,http://www.g-shop.shop/cart,2480,0,0
+1702911835725,50,/canonical.html-24,200,OK,Thread Group 1-22,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,50,0,0
+1702911835741,54,/success.txt-26,200,OK,Thread Group 1-3,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,54,0,0
+1702911835750,53,/success.txt-25,200,OK,Thread Group 1-15,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,53,0,0
+1702911833314,2499,/cart-23,200,OK,Thread Group 1-13,text,true,,7537,426,50,50,http://www.g-shop.shop/cart,2499,0,0
+1702911835761,54,/canonical.html-24,200,OK,Thread Group 1-8,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,54,0,0
+1702911835775,51,/success.txt-25,200,OK,Thread Group 1-22,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,51,0,0
+1702911835803,53,/success.txt-26,200,OK,Thread Group 1-15,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,53,0,0
+1702911835813,44,/canonical.html-24,200,OK,Thread Group 1-13,text,true,,297,324,50,50,http://detectportal.firefox.com/canonical.html,44,0,0
+1702911835815,54,/success.txt-25,200,OK,Thread Group 1-8,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,54,0,0
+1702911835826,50,/success.txt-26,200,OK,Thread Group 1-22,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,50,0,0
+1702911833414,2479,/cart-23,200,OK,Thread Group 1-2,text,true,,7531,426,50,50,http://www.g-shop.shop/cart,2479,0,0
+1702911835857,44,/success.txt-25,200,OK,Thread Group 1-13,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,44,0,0
+1702911835870,54,/success.txt-26,200,OK,Thread Group 1-8,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,54,0,0
+1702911835893,46,/canonical.html-24,200,OK,Thread Group 1-2,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,46,0,0
+1702911835901,45,/success.txt-26,200,OK,Thread Group 1-13,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,45,0,0
+1702911833200,2758,/cart-23,200,OK,Thread Group 1-26,text,true,,7541,426,50,50,http://www.g-shop.shop/cart,2758,0,0
+1702911835939,45,/success.txt-25,200,OK,Thread Group 1-2,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,45,0,0
+1702911835958,57,/canonical.html-24,200,OK,Thread Group 1-26,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,57,0,0
+1702911835984,46,/success.txt-26,200,OK,Thread Group 1-2,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,46,0,0
+1702911836015,56,/success.txt-25,200,OK,Thread Group 1-26,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,56,0,0
+1702911836072,56,/success.txt-26,200,OK,Thread Group 1-26,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,56,0,0
+1702911833814,2382,/cart-23,200,OK,Thread Group 1-24,text,true,,7549,426,50,50,http://www.g-shop.shop/cart,2382,0,0
+1702911833548,2654,/cart-23,200,OK,Thread Group 1-28,text,true,,7537,426,50,50,http://www.g-shop.shop/cart,2654,0,0
+1702911836202,45,/canonical.html-24,200,OK,Thread Group 1-28,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,45,0,0
+1702911836197,51,/canonical.html-24,200,OK,Thread Group 1-24,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,51,0,0
+1702911833984,2301,/cart-23,200,OK,Thread Group 1-17,text,true,,7542,426,50,50,http://www.g-shop.shop/cart,2301,0,0
+1702911836247,45,/success.txt-25,200,OK,Thread Group 1-28,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,45,0,0
+1702911836248,51,/success.txt-25,200,OK,Thread Group 1-24,text,true,,215,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,51,0,0
+1702911833630,2670,/cart-23,200,OK,Thread Group 1-25,text,true,,7531,426,50,50,http://www.g-shop.shop/cart,2669,0,0
+1702911833655,2668,/cart-23,200,OK,Thread Group 1-11,text,true,,7536,426,50,50,http://www.g-shop.shop/cart,2667,0,0
+1702911834105,2230,/catalog/add/914-22,500,Internal Server Error,Thread Group 1-42,text,false,,2969,594,50,50,http://www.g-shop.shop/catalog/add/914,2230,0,0
+1702911836292,45,/success.txt-26,200,OK,Thread Group 1-28,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,45,0,0
+1702911836285,54,/canonical.html-24,200,OK,Thread Group 1-17,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,54,0,0
+1702911836299,52,/success.txt-26,200,OK,Thread Group 1-24,text,true,,215,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,52,0,0
+1702911836300,53,/canonical.html-24,200,OK,Thread Group 1-25,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,53,0,0
+1702911836323,44,/canonical.html-24,200,OK,Thread Group 1-11,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,44,0,0
+1702911836339,54,/success.txt-25,200,OK,Thread Group 1-17,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,54,0,0
+1702911836353,53,/success.txt-25,200,OK,Thread Group 1-25,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,53,0,0
+1702911836367,45,/success.txt-25,200,OK,Thread Group 1-11,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,45,0,0
+1702911836393,55,/success.txt-26,200,OK,Thread Group 1-17,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,55,0,0
+1702911836412,45,/success.txt-26,200,OK,Thread Group 1-11,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,45,0,0
+1702911836406,53,/success.txt-26,200,OK,Thread Group 1-25,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,53,0,0
+1702911834155,2366,/cart-23,200,OK,Thread Group 1-30,text,true,,7534,426,50,50,http://www.g-shop.shop/cart,2366,0,0
+1702911834071,2469,/cart-23,200,OK,Thread Group 1-18,text,true,,7542,426,50,50,http://www.g-shop.shop/cart,2469,0,0
+1702911836521,50,/canonical.html-24,200,OK,Thread Group 1-30,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,50,0,0
+1702911836540,45,/canonical.html-24,200,OK,Thread Group 1-18,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,45,0,0
+1702911836571,50,/success.txt-25,200,OK,Thread Group 1-30,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,50,0,0
+1702911836585,45,/success.txt-25,200,OK,Thread Group 1-18,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,45,0,0
+1702911835563,1071,/catalog/add/914-22,500,Internal Server Error,Thread Group 1-45,text,false,,2971,594,50,50,http://www.g-shop.shop/catalog/add/914,1071,0,0
+1702911834433,2202,/cart-23,200,OK,Thread Group 1-27,text,true,,7534,426,50,50,http://www.g-shop.shop/cart,2202,0,0
+1702911836621,49,/success.txt-26,200,OK,Thread Group 1-30,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,49,0,0
+1702911836630,45,/success.txt-26,200,OK,Thread Group 1-18,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,45,0,0
+1702911836635,60,/canonical.html-24,200,OK,Thread Group 1-27,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,60,0,0
+1702911834046,2655,/cart-23,200,OK,Thread Group 1-32,text,true,,7537,426,50,50,http://www.g-shop.shop/cart,2655,0,0
+1702911834038,2704,/cart-23,200,OK,Thread Group 1-31,text,true,,7541,426,50,50,http://www.g-shop.shop/cart,2704,0,0
+1702911836701,54,/canonical.html-24,200,OK,Thread Group 1-32,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,54,0,0
+1702911836695,60,/success.txt-25,200,OK,Thread Group 1-27,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,60,0,0
+1702911836742,57,/canonical.html-24,200,OK,Thread Group 1-31,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,57,0,0
+1702911836756,54,/success.txt-25,200,OK,Thread Group 1-32,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,54,0,0
+1702911836756,60,/success.txt-26,200,OK,Thread Group 1-27,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,60,0,0
+1702911836799,57,/success.txt-25,200,OK,Thread Group 1-31,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,57,0,0
+1702911836810,54,/success.txt-26,200,OK,Thread Group 1-32,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,54,0,0
+1702911836856,57,/success.txt-26,200,OK,Thread Group 1-31,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,57,0,0
+1702911834601,2316,/cart-23,200,OK,Thread Group 1-47,text,true,,7539,426,50,50,http://www.g-shop.shop/cart,2316,0,0
+1702911836917,44,/canonical.html-24,200,OK,Thread Group 1-47,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,44,0,0
+1702911836961,43,/success.txt-25,200,OK,Thread Group 1-47,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,43,0,0
+1702911834669,2354,/cart-23,200,OK,Thread Group 1-37,text,true,,7540,426,50,50,http://www.g-shop.shop/cart,2354,0,0
+1702911837005,43,/success.txt-26,200,OK,Thread Group 1-47,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,43,0,0
+1702911835045,2012,/cart-23,200,OK,Thread Group 1-40,text,true,,7547,426,50,50,http://www.g-shop.shop/cart,2012,0,0
+1702911837023,54,/canonical.html-24,200,OK,Thread Group 1-37,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,54,0,0
+1702911834528,2560,/cart-23,200,OK,Thread Group 1-35,text,true,,7535,426,50,50,http://www.g-shop.shop/cart,2560,0,0
+1702911837057,51,/canonical.html-24,200,OK,Thread Group 1-40,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,51,0,0
+1702911837077,54,/success.txt-25,200,OK,Thread Group 1-37,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,54,0,0
+1702911837089,48,/canonical.html-24,200,OK,Thread Group 1-35,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,48,0,0
+1702911837108,51,/success.txt-25,200,OK,Thread Group 1-40,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,51,0,0
+1702911837131,53,/success.txt-26,200,OK,Thread Group 1-37,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,53,0,0
+1702911837137,48,/success.txt-25,200,OK,Thread Group 1-35,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,48,0,0
+1702911837160,51,/success.txt-26,200,OK,Thread Group 1-40,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,51,0,0
+1702911837185,49,/success.txt-26,200,OK,Thread Group 1-35,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,49,0,0
+1702911834866,2504,/cart-23,200,OK,Thread Group 1-50,text,true,,7542,426,50,50,http://www.g-shop.shop/cart,2503,0,0
+1702911837370,48,/canonical.html-24,200,OK,Thread Group 1-50,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,48,0,0
+1702911837418,49,/success.txt-25,200,OK,Thread Group 1-50,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,49,0,0
+1702911834983,2506,/cart-23,200,OK,Thread Group 1-49,text,true,,7538,426,50,50,http://www.g-shop.shop/cart,2505,0,0
+1702911837467,48,/success.txt-26,200,OK,Thread Group 1-50,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,48,0,0
+1702911837489,48,/canonical.html-24,200,OK,Thread Group 1-49,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,48,0,0
+1702911835182,2363,/cart-23,200,OK,Thread Group 1-46,text,true,,7534,426,50,50,http://www.g-shop.shop/cart,2363,0,0
+1702911835115,2460,/cart-23,200,OK,Thread Group 1-38,text,true,,7534,426,50,50,http://www.g-shop.shop/cart,2460,0,0
+1702911835251,2331,/cart-23,200,OK,Thread Group 1-43,text,true,,7535,426,50,50,http://www.g-shop.shop/cart,2331,0,0
+1702911837538,59,/success.txt-25,200,OK,Thread Group 1-49,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,59,0,0
+1702911837546,56,/canonical.html-24,200,OK,Thread Group 1-46,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,56,0,0
+1702911837576,50,/canonical.html-24,200,OK,Thread Group 1-38,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,50,0,0
+1702911835378,2259,/cart-23,200,OK,Thread Group 1-33,text,true,,7537,426,50,50,http://www.g-shop.shop/cart,2259,0,0
+1702911837582,55,/canonical.html-24,200,OK,Thread Group 1-43,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,55,0,0
+1702911837597,48,/success.txt-26,200,OK,Thread Group 1-49,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,48,0,0
+1702911835312,2337,/cart-23,200,OK,Thread Group 1-48,text,true,,7538,426,50,50,http://www.g-shop.shop/cart,2337,0,0
+1702911837602,56,/success.txt-25,200,OK,Thread Group 1-46,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,56,0,0
+1702911837626,51,/success.txt-25,200,OK,Thread Group 1-38,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,51,0,0
+1702911837637,56,/success.txt-25,200,OK,Thread Group 1-43,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,56,0,0
+1702911837637,60,/canonical.html-24,200,OK,Thread Group 1-33,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,60,0,0
+1702911837650,47,/canonical.html-24,200,OK,Thread Group 1-48,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,47,0,0
+1702911837658,62,/success.txt-26,200,OK,Thread Group 1-46,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,62,0,0
+1702911837678,50,/success.txt-26,200,OK,Thread Group 1-38,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,50,0,0
+1702911837697,45,/success.txt-25,200,OK,Thread Group 1-48,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,45,0,0
+1702911837693,58,/success.txt-26,200,OK,Thread Group 1-43,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,58,0,0
+1702911837697,58,/success.txt-25,200,OK,Thread Group 1-33,text,true,,215,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,58,0,0
+1702911837742,46,/success.txt-26,200,OK,Thread Group 1-48,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,46,0,0
+1702911837755,58,/success.txt-26,200,OK,Thread Group 1-33,text,true,,215,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,58,0,0
+1702911835324,2780,/cart-23,200,OK,Thread Group 1-41,text,true,,7545,426,50,50,http://www.g-shop.shop/cart,2780,0,0
+1702911835676,2483,/cart-23,200,OK,Thread Group 1-39,text,true,,7531,426,50,50,http://www.g-shop.shop/cart,2483,0,0
+1702911838104,59,/canonical.html-24,200,OK,Thread Group 1-41,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,59,0,0
+1702911834826,3367,/order-27,200,OK,Thread Group 1-12,text,true,,8796,825,50,50,http://www.g-shop.shop/cart,954,0,0
+1702911834826,954,/order-27-0,302,Found,Thread Group 1-12,text,true,,1266,413,50,50,http://www.g-shop.shop/order,954,0,0
+1702911835781,2412,/order-27-1,200,OK,Thread Group 1-12,text,true,,7530,412,50,50,http://www.g-shop.shop/cart,2412,0,0
+1702911835527,2670,/cart-23,200,OK,Thread Group 1-44,text,true,,7531,426,50,50,http://www.g-shop.shop/cart,2670,0,0
+1702911838159,52,/canonical.html-24,200,OK,Thread Group 1-39,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,52,0,0
+1702911838163,59,/success.txt-25,200,OK,Thread Group 1-41,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,59,0,0
+1702911835259,2979,/order-27,200,OK,Thread Group 1-4,text,true,,8800,825,50,50,http://www.g-shop.shop/cart,568,0,0
+1702911835259,568,/order-27-0,302,Found,Thread Group 1-4,text,true,,1262,413,50,50,http://www.g-shop.shop/order,568,0,0
+1702911835827,2411,/order-27-1,200,OK,Thread Group 1-4,text,true,,7538,412,50,50,http://www.g-shop.shop/cart,2411,0,0
+1702911838193,48,/canonical.html-28,200,OK,Thread Group 1-12,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,48,0,0
+1702911838197,45,/canonical.html-24,200,OK,Thread Group 1-44,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,45,0,0
+1702911838211,53,/success.txt-25,200,OK,Thread Group 1-39,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,53,0,0
+1702911838222,59,/success.txt-26,200,OK,Thread Group 1-41,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,59,0,0
+1702911838242,46,/success.txt-25,200,OK,Thread Group 1-44,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,46,0,0
+1702911838241,47,/success.txt-29,200,OK,Thread Group 1-12,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv4,47,0,0
+1702911835294,2994,/order-27,200,OK,Thread Group 1-6,text,true,,8803,825,50,50,http://www.g-shop.shop/cart,772,0,0
+1702911835294,772,/order-27-0,302,Found,Thread Group 1-6,text,true,,1268,413,50,50,http://www.g-shop.shop/order,772,0,0
+1702911836066,2222,/order-27-1,200,OK,Thread Group 1-6,text,true,,7535,412,50,50,http://www.g-shop.shop/cart,2222,0,0
+1702911838239,56,/canonical.html-28,200,OK,Thread Group 1-4,text,true,,298,324,50,50,http://detectportal.firefox.com/canonical.html,56,0,0
+1702911838264,52,/success.txt-26,200,OK,Thread Group 1-39,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,52,0,0
+1702911838288,45,/success.txt-26,200,OK,Thread Group 1-44,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,45,0,0
+1702911838289,47,/success.txt-30,200,OK,Thread Group 1-12,text,true,,216,326,50,50,http://detectportal.firefox.com/success.txt?ipv6,47,0,0
+1702911838289,51,/canonical.html-28,200,OK,Thread Group 1-6,text,true,,298,324,49,49,http://detectportal.firefox.com/canonical.html,51,0,0
+1702911838295,52,/success.txt-29,200,OK,Thread Group 1-4,text,true,,216,326,49,49,http://detectportal.firefox.com/success.txt?ipv4,52,0,0
+1702911838340,57,/success.txt-29,200,OK,Thread Group 1-6,text,true,,216,326,49,49,http://detectportal.firefox.com/success.txt?ipv4,57,0,0
+1702911838347,53,/success.txt-30,200,OK,Thread Group 1-4,text,true,,216,326,49,49,http://detectportal.firefox.com/success.txt?ipv6,53,0,0
+1702911836335,2087,/cart-23,200,OK,Thread Group 1-42,text,true,,7537,426,48,48,http://www.g-shop.shop/cart,2087,0,0
+1702911838397,52,/success.txt-30,200,OK,Thread Group 1-6,text,true,,216,326,48,48,http://detectportal.firefox.com/success.txt?ipv6,52,0,0
+1702911838422,48,/canonical.html-24,200,OK,Thread Group 1-42,text,true,,298,324,47,47,http://detectportal.firefox.com/canonical.html,48,0,0
+1702911835057,3413,/order-27,200,OK,Thread Group 1-10,text,true,,8792,825,47,47,http://www.g-shop.shop/cart,841,0,0
+1702911835057,841,/order-27-0,302,Found,Thread Group 1-10,text,true,,1260,413,47,47,http://www.g-shop.shop/order,841,0,0
+1702911835898,2572,/order-27-1,200,OK,Thread Group 1-10,text,true,,7532,412,47,47,http://www.g-shop.shop/cart,2572,0,0
+1702911834953,3532,/order-27,200,OK,Thread Group 1-1,text,true,,8799,825,47,47,http://www.g-shop.shop/cart,838,0,0
+1702911834953,838,/order-27-0,302,Found,Thread Group 1-1,text,true,,1262,413,47,47,http://www.g-shop.shop/order,838,0,0
+1702911835791,2694,/order-27-1,200,OK,Thread Group 1-1,text,true,,7537,412,47,47,http://www.g-shop.shop/cart,2693,0,0
+1702911835646,2857,/order-27,200,OK,Thread Group 1-9,text,true,,8805,825,47,47,http://www.g-shop.shop/cart,789,0,0
+1702911835646,789,/order-27-0,302,Found,Thread Group 1-9,text,true,,1266,413,47,47,http://www.g-shop.shop/order,789,0,0
+1702911836435,2068,/order-27-1,200,OK,Thread Group 1-9,text,true,,7539,412,47,47,http://www.g-shop.shop/cart,2068,0,0
+1702911838470,45,/success.txt-25,200,OK,Thread Group 1-42,text,true,,216,326,47,47,http://detectportal.firefox.com/success.txt?ipv4,45,0,0
+1702911838471,45,/canonical.html-28,200,OK,Thread Group 1-10,text,true,,298,324,47,47,http://detectportal.firefox.com/canonical.html,45,0,0
+1702911838485,46,/canonical.html-28,200,OK,Thread Group 1-1,text,true,,298,324,47,47,http://detectportal.firefox.com/canonical.html,46,0,0
+1702911838504,53,/canonical.html-28,200,OK,Thread Group 1-9,text,true,,298,324,47,47,http://detectportal.firefox.com/canonical.html,53,0,0
+1702911838515,48,/success.txt-26,200,OK,Thread Group 1-42,text,true,,216,326,47,47,http://detectportal.firefox.com/success.txt?ipv6,48,0,0
+1702911838516,47,/success.txt-29,200,OK,Thread Group 1-10,text,true,,215,326,47,47,http://detectportal.firefox.com/success.txt?ipv4,47,0,0
+1702911834987,3576,/order-27,200,OK,Thread Group 1-5,text,true,,8801,825,47,47,http://www.g-shop.shop/cart,923,0,0
+1702911834987,923,/order-27-0,302,Found,Thread Group 1-5,text,true,,1262,413,47,47,http://www.g-shop.shop/order,923,0,0
+1702911835910,2653,/order-27-1,200,OK,Thread Group 1-5,text,true,,7539,412,47,47,http://www.g-shop.shop/cart,2653,0,0
+1702911838531,47,/success.txt-29,200,OK,Thread Group 1-1,text,true,,216,326,47,47,http://detectportal.firefox.com/success.txt?ipv4,47,0,0
+1702911835108,3484,/order-27,200,OK,Thread Group 1-23,text,true,,8815,825,47,47,http://www.g-shop.shop/cart,904,0,0
+1702911835108,904,/order-27-0,302,Found,Thread Group 1-23,text,true,,1266,413,47,47,http://www.g-shop.shop/order,904,0,0
+1702911836012,2580,/order-27-1,200,OK,Thread Group 1-23,text,true,,7549,412,47,47,http://www.g-shop.shop/cart,2580,0,0
+1702911838557,51,/success.txt-29,200,OK,Thread Group 1-9,text,true,,216,326,47,47,http://detectportal.firefox.com/success.txt?ipv4,51,0,0
+1702911838563,46,/success.txt-30,200,OK,Thread Group 1-10,text,true,,215,326,47,47,http://detectportal.firefox.com/success.txt?ipv6,46,0,0
+1702911838564,51,/canonical.html-28,200,OK,Thread Group 1-5,text,true,,298,324,46,46,http://detectportal.firefox.com/canonical.html,51,0,0
+1702911835202,3421,/order-27,200,OK,Thread Group 1-19,text,true,,8809,825,46,46,http://www.g-shop.shop/cart,1028,0,0
+1702911835202,1028,/order-27-0,302,Found,Thread Group 1-19,text,true,,1268,413,46,46,http://www.g-shop.shop/order,1028,0,0
+1702911836230,2393,/order-27-1,200,OK,Thread Group 1-19,text,true,,7541,412,46,46,http://www.g-shop.shop/cart,2393,0,0
+1702911838578,48,/success.txt-30,200,OK,Thread Group 1-1,text,true,,216,326,46,46,http://detectportal.firefox.com/success.txt?ipv6,48,0,0
+1702911835621,3005,/cart-23,200,OK,Thread Group 1-36,text,true,,7529,426,46,46,http://www.g-shop.shop/cart,3005,0,0
+1702911838593,51,/canonical.html-28,200,OK,Thread Group 1-23,text,true,,298,324,45,45,http://detectportal.firefox.com/canonical.html,51,0,0
+1702911838608,49,/success.txt-30,200,OK,Thread Group 1-9,text,true,,216,326,45,45,http://detectportal.firefox.com/success.txt?ipv6,49,0,0
+1702911838615,48,/success.txt-29,200,OK,Thread Group 1-5,text,true,,216,326,44,44,http://detectportal.firefox.com/success.txt?ipv4,48,0,0
+1702911838624,46,/canonical.html-28,200,OK,Thread Group 1-19,text,true,,298,324,44,44,http://detectportal.firefox.com/canonical.html,46,0,0
+1702911838626,53,/canonical.html-24,200,OK,Thread Group 1-36,text,true,,298,324,44,44,http://detectportal.firefox.com/canonical.html,53,0,0
+1702911835589,3096,/order-27,200,OK,Thread Group 1-29,text,true,,8801,825,44,44,http://www.g-shop.shop/cart,1029,0,0
+1702911835589,1029,/order-27-0,302,Found,Thread Group 1-29,text,true,,1258,413,44,44,http://www.g-shop.shop/order,1029,0,0
+1702911836618,2067,/order-27-1,200,OK,Thread Group 1-29,text,true,,7543,412,44,44,http://www.g-shop.shop/cart,2067,0,0
+1702911838644,54,/success.txt-29,200,OK,Thread Group 1-23,text,true,,216,326,44,44,http://detectportal.firefox.com/success.txt?ipv4,54,0,0
+1702911838663,48,/success.txt-30,200,OK,Thread Group 1-5,text,true,,216,326,44,44,http://detectportal.firefox.com/success.txt?ipv6,48,0,0
+1702911838670,46,/success.txt-29,200,OK,Thread Group 1-19,text,true,,216,326,43,43,http://detectportal.firefox.com/success.txt?ipv4,46,0,0
+1702911838685,42,/canonical.html-28,200,OK,Thread Group 1-29,text,true,,298,324,43,43,http://detectportal.firefox.com/canonical.html,42,0,0
+1702911838679,53,/success.txt-25,200,OK,Thread Group 1-36,text,true,,216,326,43,43,http://detectportal.firefox.com/success.txt?ipv4,53,0,0
+1702911838698,52,/success.txt-30,200,OK,Thread Group 1-23,text,true,,216,326,43,43,http://detectportal.firefox.com/success.txt?ipv6,52,0,0
+1702911838716,47,/success.txt-30,200,OK,Thread Group 1-19,text,true,,216,326,42,42,http://detectportal.firefox.com/success.txt?ipv6,47,0,0
+1702911838727,43,/success.txt-29,200,OK,Thread Group 1-29,text,true,,216,326,41,41,http://detectportal.firefox.com/success.txt?ipv4,43,0,0
+1702911835435,3340,/order-27,200,OK,Thread Group 1-21,text,true,,8804,825,41,41,http://www.g-shop.shop/cart,914,0,0
+1702911835435,914,/order-27-0,302,Found,Thread Group 1-21,text,true,,1262,413,41,41,http://www.g-shop.shop/order,914,0,0
+1702911836349,2426,/order-27-1,200,OK,Thread Group 1-21,text,true,,7542,412,41,41,http://www.g-shop.shop/cart,2426,0,0
+1702911838732,53,/success.txt-26,200,OK,Thread Group 1-36,text,true,,216,326,41,41,http://detectportal.firefox.com/success.txt?ipv6,53,0,0
+1702911835692,3113,/order-27,200,OK,Thread Group 1-16,text,true,,8811,825,41,41,http://www.g-shop.shop/cart,985,0,0
+1702911835692,985,/order-27-0,302,Found,Thread Group 1-16,text,true,,1270,413,41,41,http://www.g-shop.shop/order,985,0,0
+1702911836677,2128,/order-27-1,200,OK,Thread Group 1-16,text,true,,7541,412,41,41,http://www.g-shop.shop/cart,2128,0,0
+1702911838771,42,/success.txt-30,200,OK,Thread Group 1-29,text,true,,216,326,41,41,http://detectportal.firefox.com/success.txt?ipv6,42,0,0
+1702911838775,53,/canonical.html-28,200,OK,Thread Group 1-21,text,true,,298,324,40,40,http://detectportal.firefox.com/canonical.html,53,0,0
+1702911838805,53,/canonical.html-28,200,OK,Thread Group 1-16,text,true,,298,324,40,40,http://detectportal.firefox.com/canonical.html,53,0,0
+1702911838829,53,/success.txt-29,200,OK,Thread Group 1-21,text,true,,216,326,40,40,http://detectportal.firefox.com/success.txt?ipv4,53,0,0
+1702911838858,53,/success.txt-29,200,OK,Thread Group 1-16,text,true,,216,326,40,40,http://detectportal.firefox.com/success.txt?ipv4,53,0,0
+1702911836634,2285,/cart-23,200,OK,Thread Group 1-45,text,true,,7544,426,40,40,http://www.g-shop.shop/cart,2285,0,0
+1702911835394,3526,/order-27,200,OK,Thread Group 1-34,text,true,,8816,825,40,40,http://www.g-shop.shop/cart,1150,0,0
+1702911835394,1150,/order-27-0,302,Found,Thread Group 1-34,text,true,,1274,413,40,40,http://www.g-shop.shop/order,1150,0,0
+1702911836544,2376,/order-27-1,200,OK,Thread Group 1-34,text,true,,7542,412,40,40,http://www.g-shop.shop/cart,2376,0,0
+1702911838882,62,/success.txt-30,200,OK,Thread Group 1-21,text,true,,216,326,40,40,http://detectportal.firefox.com/success.txt?ipv6,62,0,0
+1702911835505,3439,/order-27,200,OK,Thread Group 1-20,text,true,,8803,825,40,40,http://www.g-shop.shop/cart,816,0,0
+1702911835505,816,/order-27-0,302,Found,Thread Group 1-20,text,true,,1264,413,40,40,http://www.g-shop.shop/order,816,0,0
+1702911836321,2623,/order-27-1,200,OK,Thread Group 1-20,text,true,,7539,412,40,40,http://www.g-shop.shop/cart,2623,0,0
+1702911838911,53,/success.txt-30,200,OK,Thread Group 1-16,text,true,,216,326,39,39,http://detectportal.firefox.com/success.txt?ipv6,52,0,0
+1702911838920,49,/canonical.html-24,200,OK,Thread Group 1-45,text,true,,298,324,38,38,http://detectportal.firefox.com/canonical.html,48,0,0
+1702911838920,50,/canonical.html-28,200,OK,Thread Group 1-34,text,true,,298,324,38,38,http://detectportal.firefox.com/canonical.html,50,0,0
+1702911838944,57,/canonical.html-28,200,OK,Thread Group 1-20,text,true,,298,324,38,38,http://detectportal.firefox.com/canonical.html,57,0,0
+1702911838969,48,/success.txt-25,200,OK,Thread Group 1-45,text,true,,216,326,38,38,http://detectportal.firefox.com/success.txt?ipv4,48,0,0
+1702911838970,51,/success.txt-29,200,OK,Thread Group 1-34,text,true,,216,326,38,38,http://detectportal.firefox.com/success.txt?ipv4,51,0,0
+1702911839001,57,/success.txt-29,200,OK,Thread Group 1-20,text,true,,216,326,38,38,http://detectportal.firefox.com/success.txt?ipv4,57,0,0
+1702911839017,49,/success.txt-26,200,OK,Thread Group 1-45,text,true,,216,326,38,38,http://detectportal.firefox.com/success.txt?ipv6,49,0,0
+1702911839021,50,/success.txt-30,200,OK,Thread Group 1-34,text,true,,216,326,38,38,http://detectportal.firefox.com/success.txt?ipv6,50,0,0
+1702911835795,3310,/order-27,200,OK,Thread Group 1-3,text,true,,8805,825,37,37,http://www.g-shop.shop/cart,868,0,0
+1702911835795,868,/order-27-0,302,Found,Thread Group 1-3,text,true,,1262,413,37,37,http://www.g-shop.shop/order,868,0,0
+1702911836663,2442,/order-27-1,200,OK,Thread Group 1-3,text,true,,7543,412,37,37,http://www.g-shop.shop/cart,2442,0,0
+1702911835924,3186,/order-27,200,OK,Thread Group 1-8,text,true,,8801,825,37,37,http://www.g-shop.shop/cart,1025,0,0
+1702911835924,1025,/order-27-0,302,Found,Thread Group 1-8,text,true,,1258,413,37,37,http://www.g-shop.shop/order,1025,0,0
+1702911836949,2161,/order-27-1,200,OK,Thread Group 1-8,text,true,,7543,412,37,37,http://www.g-shop.shop/cart,2161,0,0
+1702911839058,56,/success.txt-30,200,OK,Thread Group 1-20,text,true,,216,326,37,37,http://detectportal.firefox.com/success.txt?ipv6,56,0,0
+1702911839105,54,/canonical.html-28,200,OK,Thread Group 1-3,text,true,,298,324,36,36,http://detectportal.firefox.com/canonical.html,54,0,0
+1702911836128,3036,/order-27,200,OK,Thread Group 1-26,text,true,,8811,825,36,36,http://www.g-shop.shop/cart,753,0,0
+1702911836128,753,/order-27-0,302,Found,Thread Group 1-26,text,true,,1270,413,36,36,http://www.g-shop.shop/order,753,0,0
+1702911836881,2283,/order-27-1,200,OK,Thread Group 1-26,text,true,,7541,412,36,36,http://www.g-shop.shop/cart,2283,0,0
+1702911839111,54,/canonical.html-28,200,OK,Thread Group 1-8,text,true,,298,324,36,36,http://detectportal.firefox.com/canonical.html,54,0,0
+1702911835876,3297,/order-27,200,OK,Thread Group 1-22,text,true,,8798,825,36,36,http://www.g-shop.shop/cart,836,0,0
+1702911835876,836,/order-27-0,302,Found,Thread Group 1-22,text,true,,1262,413,36,36,http://www.g-shop.shop/order,836,0,0
+1702911836712,2461,/order-27-1,200,OK,Thread Group 1-22,text,true,,7536,412,36,36,http://www.g-shop.shop/cart,2460,0,0
+1702911839160,53,/success.txt-29,200,OK,Thread Group 1-3,text,true,,216,326,36,36,http://detectportal.firefox.com/success.txt?ipv4,53,0,0
+1702911839165,55,/success.txt-29,200,OK,Thread Group 1-8,text,true,,216,326,36,36,http://detectportal.firefox.com/success.txt?ipv4,55,0,0
+1702911839165,56,/canonical.html-28,200,OK,Thread Group 1-26,text,true,,298,324,36,36,http://detectportal.firefox.com/canonical.html,56,0,0
+1702911839173,50,/canonical.html-28,200,OK,Thread Group 1-22,text,true,,298,324,36,36,http://detectportal.firefox.com/canonical.html,50,0,0
+1702911835500,3750,/order-27,200,OK,Thread Group 1-14,text,true,,8805,825,36,36,http://www.g-shop.shop/cart,1138,0,0
+1702911835500,1138,/order-27-0,302,Found,Thread Group 1-14,text,true,,1270,413,36,36,http://www.g-shop.shop/order,1138,0,0
+1702911836638,2612,/order-27-1,200,OK,Thread Group 1-14,text,true,,7535,412,36,36,http://www.g-shop.shop/cart,2611,0,0
+1702911839214,54,/success.txt-30,200,OK,Thread Group 1-3,text,true,,216,326,36,36,http://detectportal.firefox.com/success.txt?ipv6,54,0,0
+1702911839223,50,/success.txt-29,200,OK,Thread Group 1-22,text,true,,216,326,35,35,http://detectportal.firefox.com/success.txt?ipv4,50,0,0
+1702911839220,54,/success.txt-30,200,OK,Thread Group 1-8,text,true,,216,326,35,35,http://detectportal.firefox.com/success.txt?ipv6,54,0,0
+1702911839221,57,/success.txt-29,200,OK,Thread Group 1-26,text,true,,216,326,34,34,http://detectportal.firefox.com/success.txt?ipv4,57,0,0
+1702911839250,45,/canonical.html-28,200,OK,Thread Group 1-14,text,true,,298,324,34,34,http://detectportal.firefox.com/canonical.html,45,0,0
+1702911839273,50,/success.txt-30,200,OK,Thread Group 1-22,text,true,,216,326,34,34,http://detectportal.firefox.com/success.txt?ipv6,50,0,0
+1702911836448,2886,/order-27,200,OK,Thread Group 1-17,text,true,,8806,825,33,33,http://www.g-shop.shop/cart,696,0,0
+1702911836448,696,/order-27-0,302,Found,Thread Group 1-17,text,true,,1260,413,33,33,http://www.g-shop.shop/order,696,0,0
+1702911837144,2190,/order-27-1,200,OK,Thread Group 1-17,text,true,,7546,412,33,33,http://www.g-shop.shop/cart,2190,0,0
+1702911839278,56,/success.txt-30,200,OK,Thread Group 1-26,text,true,,216,326,33,33,http://detectportal.firefox.com/success.txt?ipv6,56,0,0
+1702911839295,47,/success.txt-29,200,OK,Thread Group 1-14,text,true,,216,326,32,32,http://detectportal.firefox.com/success.txt?ipv4,47,0,0
+1702911835856,3504,/order-27,200,OK,Thread Group 1-15,text,true,,8812,825,32,32,http://www.g-shop.shop/cart,1053,0,0
+1702911835856,1054,/order-27-0,302,Found,Thread Group 1-15,text,true,,1268,413,32,32,http://www.g-shop.shop/order,1053,0,0
+1702911836910,2450,/order-27-1,200,OK,Thread Group 1-15,text,true,,7544,412,32,32,http://www.g-shop.shop/cart,2449,0,0
+1702911836030,3346,/order-27,200,OK,Thread Group 1-2,text,true,,8810,825,32,32,http://www.g-shop.shop/cart,906,0,0
+1702911836030,906,/order-27-0,302,Found,Thread Group 1-2,text,true,,1266,413,32,32,http://www.g-shop.shop/order,906,0,0
+1702911836936,2440,/order-27-1,200,OK,Thread Group 1-2,text,true,,7544,412,32,32,http://www.g-shop.shop/cart,2440,0,0
+1702911839342,48,/success.txt-30,200,OK,Thread Group 1-14,text,true,,216,326,32,32,http://detectportal.firefox.com/success.txt?ipv6,48,0,0
+1702911839334,56,/canonical.html-28,200,OK,Thread Group 1-17,text,true,,298,324,32,32,http://detectportal.firefox.com/canonical.html,56,0,0
+1702911839360,53,/canonical.html-28,200,OK,Thread Group 1-15,text,true,,298,324,31,31,http://detectportal.firefox.com/canonical.html,53,0,0
+1702911839376,46,/canonical.html-28,200,OK,Thread Group 1-2,text,true,,298,324,31,31,http://detectportal.firefox.com/canonical.html,46,0,0
+1702911836459,2966,/order-27,200,OK,Thread Group 1-25,text,true,,8805,825,31,31,http://www.g-shop.shop/cart,781,0,0
+1702911836459,781,/order-27-0,302,Found,Thread Group 1-25,text,true,,1266,413,31,31,http://www.g-shop.shop/order,781,0,0
+1702911837240,2185,/order-27-1,200,OK,Thread Group 1-25,text,true,,7539,412,31,31,http://www.g-shop.shop/cart,2184,0,0
+1702911839390,54,/success.txt-29,200,OK,Thread Group 1-17,text,true,,216,326,31,31,http://detectportal.firefox.com/success.txt?ipv4,54,0,0
+1702911835946,3498,/order-27,200,OK,Thread Group 1-13,text,true,,8804,825,31,31,http://www.g-shop.shop/cart,985,0,0
+1702911835946,985,/order-27-0,302,Found,Thread Group 1-13,text,true,,1266,413,31,31,http://www.g-shop.shop/order,985,0,0
+1702911836931,2513,/order-27-1,200,OK,Thread Group 1-13,text,true,,7538,412,31,31,http://www.g-shop.shop/cart,2513,0,0
+1702911836457,2989,/order-27,200,OK,Thread Group 1-11,text,true,,8814,825,31,31,http://www.g-shop.shop/cart,1025,0,0
+1702911836457,1025,/order-27-0,302,Found,Thread Group 1-11,text,true,,1268,413,31,31,http://www.g-shop.shop/order,1025,0,0
+1702911837482,1964,/order-27-1,200,OK,Thread Group 1-11,text,true,,7546,412,31,31,http://www.g-shop.shop/cart,1964,0,0
+1702911839413,53,/success.txt-29,200,OK,Thread Group 1-15,text,true,,216,326,31,31,http://detectportal.firefox.com/success.txt?ipv4,52,0,0
+1702911839422,46,/success.txt-29,200,OK,Thread Group 1-2,text,true,,216,326,31,31,http://detectportal.firefox.com/success.txt?ipv4,46,0,0
+1702911839425,53,/canonical.html-28,200,OK,Thread Group 1-25,text,true,,298,324,31,31,http://detectportal.firefox.com/canonical.html,53,0,0
+1702911839445,44,/canonical.html-28,200,OK,Thread Group 1-13,text,true,,297,324,31,31,http://detectportal.firefox.com/canonical.html,44,0,0
+1702911839446,45,/canonical.html-28,200,OK,Thread Group 1-11,text,true,,298,324,31,31,http://detectportal.firefox.com/canonical.html,45,0,0
+1702911839445,54,/success.txt-30,200,OK,Thread Group 1-17,text,true,,216,326,31,31,http://detectportal.firefox.com/success.txt?ipv6,54,0,0
+1702911839468,49,/success.txt-30,200,OK,Thread Group 1-2,text,true,,216,326,30,30,http://detectportal.firefox.com/success.txt?ipv6,49,0,0
+1702911839466,53,/success.txt-30,200,OK,Thread Group 1-15,text,true,,216,326,29,29,http://detectportal.firefox.com/success.txt?ipv6,53,0,0
+1702911836337,3187,/order-27,200,OK,Thread Group 1-28,text,true,,8800,825,28,28,http://www.g-shop.shop/cart,775,0,0
+1702911836337,775,/order-27-0,302,Found,Thread Group 1-28,text,true,,1268,413,28,28,http://www.g-shop.shop/order,775,0,0
+1702911837112,2412,/order-27-1,200,OK,Thread Group 1-28,text,true,,7532,412,28,28,http://www.g-shop.shop/cart,2412,0,0
+1702911839489,45,/success.txt-29,200,OK,Thread Group 1-13,text,true,,216,326,28,28,http://detectportal.firefox.com/success.txt?ipv4,45,0,0
+1702911839478,56,/success.txt-29,200,OK,Thread Group 1-25,text,true,,216,326,28,28,http://detectportal.firefox.com/success.txt?ipv4,56,0,0
+1702911839491,46,/success.txt-29,200,OK,Thread Group 1-11,text,true,,216,326,28,28,http://detectportal.firefox.com/success.txt?ipv4,46,0,0
+1702911839524,46,/canonical.html-28,200,OK,Thread Group 1-28,text,true,,298,324,28,28,http://detectportal.firefox.com/canonical.html,46,0,0
+1702911839534,44,/success.txt-30,200,OK,Thread Group 1-13,text,true,,216,326,28,28,http://detectportal.firefox.com/success.txt?ipv6,44,0,0
+1702911839538,45,/success.txt-30,200,OK,Thread Group 1-11,text,true,,216,326,27,27,http://detectportal.firefox.com/success.txt?ipv6,45,0,0
+1702911839534,53,/success.txt-30,200,OK,Thread Group 1-25,text,true,,216,326,26,26,http://detectportal.firefox.com/success.txt?ipv6,53,0,0
+1702911836351,3251,/order-27,200,OK,Thread Group 1-24,text,true,,8803,825,25,25,http://www.g-shop.shop/cart,1022,0,0
+1702911836351,1022,/order-27-0,302,Found,Thread Group 1-24,text,true,,1266,413,25,25,http://www.g-shop.shop/order,1022,0,0
+1702911837373,2229,/order-27-1,200,OK,Thread Group 1-24,text,true,,7537,412,25,25,http://www.g-shop.shop/cart,2229,0,0
+1702911839570,46,/success.txt-29,200,OK,Thread Group 1-28,text,true,,216,326,25,25,http://detectportal.firefox.com/success.txt?ipv4,46,0,0
+1702911836675,2947,/order-27,200,OK,Thread Group 1-18,text,true,,8802,825,25,25,http://www.g-shop.shop/cart,867,0,0
+1702911836675,867,/order-27-0,302,Found,Thread Group 1-18,text,true,,1266,413,25,25,http://www.g-shop.shop/order,867,0,0
+1702911837543,2079,/order-27-1,200,OK,Thread Group 1-18,text,true,,7536,412,25,25,http://www.g-shop.shop/cart,2079,0,0
+1702911836864,2774,/order-27,200,OK,Thread Group 1-32,text,true,,8815,825,25,25,http://www.g-shop.shop/cart,777,0,0
+1702911836864,777,/order-27-0,302,Found,Thread Group 1-32,text,true,,1274,413,25,25,http://www.g-shop.shop/order,777,0,0
+1702911837641,1997,/order-27-1,200,OK,Thread Group 1-32,text,true,,7541,412,25,25,http://www.g-shop.shop/cart,1997,0,0
+1702911839602,51,/canonical.html-28,200,OK,Thread Group 1-24,text,true,,298,324,25,25,http://detectportal.firefox.com/canonical.html,51,0,0
+1702911839616,45,/success.txt-30,200,OK,Thread Group 1-28,text,true,,216,326,25,25,http://detectportal.firefox.com/success.txt?ipv6,45,0,0
+1702911839622,45,/canonical.html-28,200,OK,Thread Group 1-18,text,true,,298,324,24,24,http://detectportal.firefox.com/canonical.html,45,0,0
+1702911836670,2997,/order-27,200,OK,Thread Group 1-30,text,true,,8795,825,24,24,http://www.g-shop.shop/cart,678,0,0
+1702911836670,678,/order-27-0,302,Found,Thread Group 1-30,text,true,,1258,413,24,24,http://www.g-shop.shop/order,678,0,0
+1702911837348,2319,/order-27-1,200,OK,Thread Group 1-30,text,true,,7537,412,24,24,http://www.g-shop.shop/cart,2318,0,0
+1702911836913,2775,/order-27,200,OK,Thread Group 1-31,text,true,,8810,825,24,24,http://www.g-shop.shop/cart,898,0,0
+1702911836913,898,/order-27-0,302,Found,Thread Group 1-31,text,true,,1262,413,24,24,http://www.g-shop.shop/order,898,0,0
+1702911837811,1877,/order-27-1,200,OK,Thread Group 1-31,text,true,,7548,412,24,24,http://www.g-shop.shop/cart,1877,0,0
+1702911839638,54,/canonical.html-28,200,OK,Thread Group 1-32,text,true,,298,324,24,24,http://detectportal.firefox.com/canonical.html,54,0,0
+1702911839653,53,/success.txt-29,200,OK,Thread Group 1-24,text,true,,215,326,24,24,http://detectportal.firefox.com/success.txt?ipv4,53,0,0
+1702911839667,45,/success.txt-29,200,OK,Thread Group 1-18,text,true,,216,326,24,24,http://detectportal.firefox.com/success.txt?ipv4,44,0,0
+1702911839667,49,/canonical.html-28,200,OK,Thread Group 1-30,text,true,,298,324,24,24,http://detectportal.firefox.com/canonical.html,49,0,0
+1702911836816,2911,/order-27,200,OK,Thread Group 1-27,text,true,,8792,825,24,24,http://www.g-shop.shop/cart,940,0,0
+1702911836816,940,/order-27-0,302,Found,Thread Group 1-27,text,true,,1262,413,24,24,http://www.g-shop.shop/order,940,0,0
+1702911837756,1971,/order-27-1,200,OK,Thread Group 1-27,text,true,,7530,412,24,24,http://www.g-shop.shop/cart,1971,0,0
+1702911837234,2500,/order-27,200,OK,Thread Group 1-35,text,true,,8795,825,24,24,http://www.g-shop.shop/cart,702,0,0
+1702911837234,702,/order-27-0,302,Found,Thread Group 1-35,text,true,,1264,413,24,24,http://www.g-shop.shop/order,702,0,0
+1702911837936,1798,/order-27-1,200,OK,Thread Group 1-35,text,true,,7531,412,24,24,http://www.g-shop.shop/cart,1798,0,0
+1702911839689,56,/canonical.html-28,200,OK,Thread Group 1-31,text,true,,298,324,24,24,http://detectportal.firefox.com/canonical.html,56,0,0
+1702911839692,55,/success.txt-29,200,OK,Thread Group 1-32,text,true,,216,326,24,24,http://detectportal.firefox.com/success.txt?ipv4,55,0,0
+1702911839706,54,/success.txt-30,200,OK,Thread Group 1-24,text,true,,215,326,24,24,http://detectportal.firefox.com/success.txt?ipv6,54,0,0
+1702911839712,48,/success.txt-30,200,OK,Thread Group 1-18,text,true,,216,326,24,24,http://detectportal.firefox.com/success.txt?ipv6,48,0,0
+1702911835716,4046,/order-27,200,OK,Thread Group 1-7,text,true,,8805,825,22,22,http://www.g-shop.shop/cart,1033,0,0
+1702911835716,1033,/order-27-0,302,Found,Thread Group 1-7,text,true,,1270,413,22,22,http://www.g-shop.shop/order,1033,0,0
+1702911836750,3012,/order-27-1,200,OK,Thread Group 1-7,text,true,,7535,412,22,22,http://www.g-shop.shop/cart,3011,0,0
+1702911839716,54,/success.txt-29,200,OK,Thread Group 1-30,text,true,,216,326,22,22,http://detectportal.firefox.com/success.txt?ipv4,54,0,0
+1702911839734,48,/canonical.html-28,200,OK,Thread Group 1-35,text,true,,298,324,22,22,http://detectportal.firefox.com/canonical.html,48,0,0
+1702911839727,60,/canonical.html-28,200,OK,Thread Group 1-27,text,true,,298,324,22,22,http://detectportal.firefox.com/canonical.html,60,0,0
+1702911839747,55,/success.txt-30,200,OK,Thread Group 1-32,text,true,,216,326,22,22,http://detectportal.firefox.com/success.txt?ipv6,54,0,0
+1702911839746,56,/success.txt-29,200,OK,Thread Group 1-31,text,true,,216,326,21,21,http://detectportal.firefox.com/success.txt?ipv4,56,0,0
+1702911839762,54,/canonical.html-28,200,OK,Thread Group 1-7,text,true,,298,324,21,21,http://detectportal.firefox.com/canonical.html,54,0,0
+1702911839770,49,/success.txt-30,200,OK,Thread Group 1-30,text,true,,216,326,21,21,http://detectportal.firefox.com/success.txt?ipv6,49,0,0
+1702911839782,48,/success.txt-29,200,OK,Thread Group 1-35,text,true,,216,326,20,20,http://detectportal.firefox.com/success.txt?ipv4,48,0,0
+1702911839787,60,/success.txt-29,200,OK,Thread Group 1-27,text,true,,216,326,20,20,http://detectportal.firefox.com/success.txt?ipv4,60,0,0
+1702911839802,57,/success.txt-30,200,OK,Thread Group 1-31,text,true,,216,326,20,20,http://detectportal.firefox.com/success.txt?ipv6,57,0,0
+1702911839816,54,/success.txt-29,200,OK,Thread Group 1-7,text,true,,216,326,19,19,http://detectportal.firefox.com/success.txt?ipv4,54,0,0
+1702911839830,48,/success.txt-30,200,OK,Thread Group 1-35,text,true,,216,326,19,19,http://detectportal.firefox.com/success.txt?ipv6,48,0,0
+1702911839847,60,/success.txt-30,200,OK,Thread Group 1-27,text,true,,216,326,18,18,http://detectportal.firefox.com/success.txt?ipv6,60,0,0
+1702911839870,55,/success.txt-30,200,OK,Thread Group 1-7,text,true,,216,326,17,17,http://detectportal.firefox.com/success.txt?ipv6,55,0,0
+1702911837515,2417,/order-27,200,OK,Thread Group 1-50,text,true,,8802,825,16,16,http://www.g-shop.shop/cart,768,0,0
+1702911837515,768,/order-27-0,302,Found,Thread Group 1-50,text,true,,1264,413,16,16,http://www.g-shop.shop/order,768,0,0
+1702911838283,1649,/order-27-1,200,OK,Thread Group 1-50,text,true,,7538,412,16,16,http://www.g-shop.shop/cart,1649,0,0
+1702911837048,2891,/order-27,200,OK,Thread Group 1-47,text,true,,8800,825,16,16,http://www.g-shop.shop/cart,892,0,0
+1702911837048,892,/order-27-0,302,Found,Thread Group 1-47,text,true,,1262,413,16,16,http://www.g-shop.shop/order,892,0,0
+1702911837940,1999,/order-27-1,200,OK,Thread Group 1-47,text,true,,7538,412,16,16,http://www.g-shop.shop/cart,1998,0,0
+1702911837185,2768,/order-27,200,OK,Thread Group 1-37,text,true,,8796,825,16,16,http://www.g-shop.shop/cart,969,0,0
+1702911837185,969,/order-27-0,302,Found,Thread Group 1-37,text,true,,1262,413,16,16,http://www.g-shop.shop/order,969,0,0
+1702911838154,1799,/order-27-1,200,OK,Thread Group 1-37,text,true,,7534,412,16,16,http://www.g-shop.shop/cart,1798,0,0
+1702911837788,2173,/order-27,200,OK,Thread Group 1-48,text,true,,8795,825,16,16,http://www.g-shop.shop/cart,661,0,0
+1702911837788,661,/order-27-0,302,Found,Thread Group 1-48,text,true,,1260,413,16,16,http://www.g-shop.shop/order,661,0,0
+1702911838449,1512,/order-27-1,200,OK,Thread Group 1-48,text,true,,7535,412,16,16,http://www.g-shop.shop/cart,1512,0,0
+1702911837211,2752,/order-27,200,OK,Thread Group 1-40,text,true,,8805,825,16,16,http://www.g-shop.shop/cart,1051,0,0
+1702911837211,1051,/order-27-0,302,Found,Thread Group 1-40,text,true,,1264,413,16,16,http://www.g-shop.shop/order,1051,0,0
+1702911838262,1701,/order-27-1,200,OK,Thread Group 1-40,text,true,,7541,412,16,16,http://www.g-shop.shop/cart,1701,0,0
+1702911839932,48,/canonical.html-28,200,OK,Thread Group 1-50,text,true,,298,324,16,16,http://detectportal.firefox.com/canonical.html,48,0,0
+1702911839939,43,/canonical.html-28,200,OK,Thread Group 1-47,text,true,,298,324,16,16,http://detectportal.firefox.com/canonical.html,43,0,0
+1702911837645,2353,/order-27,200,OK,Thread Group 1-49,text,true,,8792,825,16,16,http://www.g-shop.shop/cart,902,0,0
+1702911837645,902,/order-27-0,302,Found,Thread Group 1-49,text,true,,1260,413,16,16,http://www.g-shop.shop/order,902,0,0
+1702911838547,1451,/order-27-1,200,OK,Thread Group 1-49,text,true,,7532,412,16,16,http://www.g-shop.shop/cart,1451,0,0
+1702911837751,2252,/order-27,200,OK,Thread Group 1-43,text,true,,8800,825,16,16,http://www.g-shop.shop/cart,698,0,0
+1702911837751,698,/order-27-0,302,Found,Thread Group 1-43,text,true,,1260,413,16,16,http://www.g-shop.shop/order,698,0,0
+1702911838450,1553,/order-27-1,200,OK,Thread Group 1-43,text,true,,7540,412,16,16,http://www.g-shop.shop/cart,1552,0,0
+1702911839953,53,/canonical.html-28,200,OK,Thread Group 1-37,text,true,,298,324,16,16,http://detectportal.firefox.com/canonical.html,53,0,0
+1702911839961,45,/canonical.html-28,200,OK,Thread Group 1-48,text,true,,298,324,16,16,http://detectportal.firefox.com/canonical.html,45,0,0
+1702911839964,51,/canonical.html-28,200,OK,Thread Group 1-40,text,true,,298,324,16,16,http://detectportal.firefox.com/canonical.html,51,0,0
+1702911837813,2208,/order-27,200,OK,Thread Group 1-33,text,true,,8792,825,16,16,http://www.g-shop.shop/cart,735,0,0
+1702911837813,735,/order-27-0,302,Found,Thread Group 1-33,text,true,,1262,413,16,16,http://www.g-shop.shop/order,735,0,0
+1702911838548,1473,/order-27-1,200,OK,Thread Group 1-33,text,true,,7530,412,16,16,http://www.g-shop.shop/cart,1473,0,0
+1702911839982,43,/success.txt-29,200,OK,Thread Group 1-47,text,true,,216,326,16,16,http://detectportal.firefox.com/success.txt?ipv4,43,0,0
+1702911839981,50,/success.txt-29,200,OK,Thread Group 1-50,text,true,,216,326,16,16,http://detectportal.firefox.com/success.txt?ipv4,50,0,0
+1702911839999,47,/canonical.html-28,200,OK,Thread Group 1-49,text,true,,298,324,16,16,http://detectportal.firefox.com/canonical.html,47,0,0
+1702911840006,46,/success.txt-29,200,OK,Thread Group 1-48,text,true,,216,326,16,16,http://detectportal.firefox.com/success.txt?ipv4,46,0,0
+1702911837728,2330,/order-27,200,OK,Thread Group 1-38,text,true,,8809,825,16,16,http://www.g-shop.shop/cart,809,0,0
+1702911837728,809,/order-27-0,302,Found,Thread Group 1-38,text,true,,1272,413,16,16,http://www.g-shop.shop/order,809,0,0
+1702911838537,1521,/order-27-1,200,OK,Thread Group 1-38,text,true,,7537,412,16,16,http://www.g-shop.shop/cart,1521,0,0
+1702911840006,54,/success.txt-29,200,OK,Thread Group 1-37,text,true,,216,326,16,16,http://detectportal.firefox.com/success.txt?ipv4,54,0,0
+1702911840005,55,/canonical.html-28,200,OK,Thread Group 1-43,text,true,,298,324,16,16,http://detectportal.firefox.com/canonical.html,55,0,0
+1702911840015,51,/success.txt-29,200,OK,Thread Group 1-40,text,true,,216,326,16,16,http://detectportal.firefox.com/success.txt?ipv4,51,0,0
+1702911840026,43,/success.txt-30,200,OK,Thread Group 1-47,text,true,,216,326,16,16,http://detectportal.firefox.com/success.txt?ipv6,43,0,0
+1702911838316,1756,/order-27,200,OK,Thread Group 1-39,text,true,,8799,825,15,15,http://www.g-shop.shop/cart,320,0,0
+1702911838316,320,/order-27-0,302,Found,Thread Group 1-39,text,true,,1260,413,15,15,http://www.g-shop.shop/order,320,0,0
+1702911838636,1436,/order-27-1,200,OK,Thread Group 1-39,text,true,,7539,412,15,15,http://www.g-shop.shop/cart,1436,0,0
+1702911840021,58,/canonical.html-28,200,OK,Thread Group 1-33,text,true,,298,324,15,15,http://detectportal.firefox.com/canonical.html,58,0,0
+1702911840031,52,/success.txt-30,200,OK,Thread Group 1-50,text,true,,216,326,15,15,http://detectportal.firefox.com/success.txt?ipv6,52,0,0
+1702911840046,47,/success.txt-29,200,OK,Thread Group 1-49,text,true,,216,326,14,14,http://detectportal.firefox.com/success.txt?ipv4,47,0,0
+1702911840052,45,/success.txt-30,200,OK,Thread Group 1-48,text,true,,216,326,14,14,http://detectportal.firefox.com/success.txt?ipv6,45,0,0
+1702911840058,50,/canonical.html-28,200,OK,Thread Group 1-38,text,true,,298,324,13,13,http://detectportal.firefox.com/canonical.html,50,0,0
+1702911840060,53,/success.txt-30,200,OK,Thread Group 1-37,text,true,,216,326,13,13,http://detectportal.firefox.com/success.txt?ipv6,53,0,0
+1702911840060,55,/success.txt-29,200,OK,Thread Group 1-43,text,true,,216,326,12,12,http://detectportal.firefox.com/success.txt?ipv4,55,0,0
+1702911837721,2395,/order-27,200,OK,Thread Group 1-46,text,true,,8808,825,12,12,http://www.g-shop.shop/cart,1011,0,0
+1702911837721,1011,/order-27-0,302,Found,Thread Group 1-46,text,true,,1270,413,12,12,http://www.g-shop.shop/order,1011,0,0
+1702911838732,1384,/order-27-1,200,OK,Thread Group 1-46,text,true,,7538,412,12,12,http://www.g-shop.shop/cart,1384,0,0
+1702911840067,51,/success.txt-30,200,OK,Thread Group 1-40,text,true,,216,326,12,12,http://detectportal.firefox.com/success.txt?ipv6,51,0,0
+1702911840072,52,/canonical.html-28,200,OK,Thread Group 1-39,text,true,,298,324,11,11,http://detectportal.firefox.com/canonical.html,52,0,0
+1702911840079,58,/success.txt-29,200,OK,Thread Group 1-33,text,true,,215,326,11,11,http://detectportal.firefox.com/success.txt?ipv4,58,0,0
+1702911840093,47,/success.txt-30,200,OK,Thread Group 1-49,text,true,,216,326,11,11,http://detectportal.firefox.com/success.txt?ipv6,47,0,0
+1702911840108,50,/success.txt-29,200,OK,Thread Group 1-38,text,true,,216,326,10,10,http://detectportal.firefox.com/success.txt?ipv4,50,0,0
+1702911840115,55,/success.txt-30,200,OK,Thread Group 1-43,text,true,,216,326,10,10,http://detectportal.firefox.com/success.txt?ipv6,55,0,0
+1702911838281,1889,/order-27,200,OK,Thread Group 1-41,text,true,,8804,825,9,9,http://www.g-shop.shop/cart,689,0,0
+1702911838281,689,/order-27-0,302,Found,Thread Group 1-41,text,true,,1266,413,9,9,http://www.g-shop.shop/order,689,0,0
+1702911838970,1200,/order-27-1,200,OK,Thread Group 1-41,text,true,,7538,412,9,9,http://www.g-shop.shop/cart,1200,0,0
+1702911840116,56,/canonical.html-28,200,OK,Thread Group 1-46,text,true,,298,324,9,9,http://detectportal.firefox.com/canonical.html,56,0,0
+1702911840124,52,/success.txt-29,200,OK,Thread Group 1-39,text,true,,216,326,9,9,http://detectportal.firefox.com/success.txt?ipv4,52,0,0
+1702911840137,60,/success.txt-30,200,OK,Thread Group 1-33,text,true,,215,326,9,9,http://detectportal.firefox.com/success.txt?ipv6,60,0,0
+1702911840159,50,/success.txt-30,200,OK,Thread Group 1-38,text,true,,216,326,8,8,http://detectportal.firefox.com/success.txt?ipv6,50,0,0
+1702911840172,56,/success.txt-29,200,OK,Thread Group 1-46,text,true,,216,326,7,7,http://detectportal.firefox.com/success.txt?ipv4,56,0,0
+1702911840176,52,/success.txt-30,200,OK,Thread Group 1-39,text,true,,216,326,7,7,http://detectportal.firefox.com/success.txt?ipv6,52,0,0
+1702911840171,58,/canonical.html-28,200,OK,Thread Group 1-41,text,true,,298,324,6,6,http://detectportal.firefox.com/canonical.html,58,0,0
+1702911838333,1901,/order-27,200,OK,Thread Group 1-44,text,true,,8795,825,6,6,http://www.g-shop.shop/cart,761,0,0
+1702911838333,761,/order-27-0,302,Found,Thread Group 1-44,text,true,,1260,413,6,6,http://www.g-shop.shop/order,761,0,0
+1702911839094,1140,/order-27-1,200,OK,Thread Group 1-44,text,true,,7535,412,6,6,http://www.g-shop.shop/cart,1140,0,0
+1702911840234,45,/canonical.html-28,200,OK,Thread Group 1-44,text,true,,298,324,6,6,http://detectportal.firefox.com/canonical.html,45,0,0
+1702911838785,1498,/order-27,200,OK,Thread Group 1-36,text,true,,8820,825,6,6,http://www.g-shop.shop/cart,656,0,0
+1702911838785,656,/order-27-0,302,Found,Thread Group 1-36,text,true,,1276,413,6,6,http://www.g-shop.shop/order,656,0,0
+1702911839441,842,/order-27-1,200,OK,Thread Group 1-36,text,true,,7544,412,6,6,http://www.g-shop.shop/cart,842,0,0
+1702911840228,56,/success.txt-30,200,OK,Thread Group 1-46,text,true,,216,326,6,6,http://detectportal.firefox.com/success.txt?ipv6,56,0,0
+1702911840229,59,/success.txt-29,200,OK,Thread Group 1-41,text,true,,216,326,5,5,http://detectportal.firefox.com/success.txt?ipv4,59,0,0
+1702911840279,45,/success.txt-29,200,OK,Thread Group 1-44,text,true,,216,326,5,5,http://detectportal.firefox.com/success.txt?ipv4,45,0,0
+1702911840283,53,/canonical.html-28,200,OK,Thread Group 1-36,text,true,,298,324,5,5,http://detectportal.firefox.com/canonical.html,53,0,0
+1702911840288,59,/success.txt-30,200,OK,Thread Group 1-41,text,true,,216,326,5,5,http://detectportal.firefox.com/success.txt?ipv6,59,0,0
+1702911838563,1796,/order-27,200,OK,Thread Group 1-42,text,true,,8803,825,4,4,http://www.g-shop.shop/cart,831,0,0
+1702911838563,831,/order-27-0,302,Found,Thread Group 1-42,text,true,,1266,413,4,4,http://www.g-shop.shop/order,831,0,0
+1702911839394,965,/order-27-1,200,OK,Thread Group 1-42,text,true,,7537,412,4,4,http://www.g-shop.shop/cart,965,0,0
+1702911840325,45,/success.txt-30,200,OK,Thread Group 1-44,text,true,,216,326,4,4,http://detectportal.firefox.com/success.txt?ipv6,45,0,0
+1702911839066,1315,/order-27,200,OK,Thread Group 1-45,text,true,,8796,825,3,3,http://www.g-shop.shop/cart,499,0,0
+1702911839066,499,/order-27-0,302,Found,Thread Group 1-45,text,true,,1264,413,3,3,http://www.g-shop.shop/order,499,0,0
+1702911839565,816,/order-27-1,200,OK,Thread Group 1-45,text,true,,7532,412,3,3,http://www.g-shop.shop/cart,816,0,0
+1702911840336,53,/success.txt-29,200,OK,Thread Group 1-36,text,true,,216,326,3,3,http://detectportal.firefox.com/success.txt?ipv4,53,0,0
+1702911840359,44,/canonical.html-28,200,OK,Thread Group 1-42,text,true,,298,324,3,3,http://detectportal.firefox.com/canonical.html,44,0,0
+1702911840381,49,/canonical.html-28,200,OK,Thread Group 1-45,text,true,,298,324,3,3,http://detectportal.firefox.com/canonical.html,49,0,0
+1702911840389,53,/success.txt-30,200,OK,Thread Group 1-36,text,true,,216,326,3,3,http://detectportal.firefox.com/success.txt?ipv6,53,0,0
+1702911840404,44,/success.txt-29,200,OK,Thread Group 1-42,text,true,,216,326,2,2,http://detectportal.firefox.com/success.txt?ipv4,44,0,0
+1702911840430,49,/success.txt-29,200,OK,Thread Group 1-45,text,true,,216,326,2,2,http://detectportal.firefox.com/success.txt?ipv4,49,0,0
+1702911840448,45,/success.txt-30,200,OK,Thread Group 1-42,text,true,,216,326,2,2,http://detectportal.firefox.com/success.txt?ipv6,45,0,0
+1702911840479,49,/success.txt-30,200,OK,Thread Group 1-45,text,true,,216,326,1,1,http://detectportal.firefox.com/success.txt?ipv6,49,0,0
