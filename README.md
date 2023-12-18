@@ -17,7 +17,7 @@ IV. Сайт dostaevsky.ru;
 V. Сайт oissolutions.net;
 - Лаб7. Нагрузочное тестирование.
 
-VI. Сайт cn.ru;
+VI. Сайт .g-shop.shop;
 - Лаб8. Нагрузочное тестирование (сценарий).
 
 VII. Сайт github;
